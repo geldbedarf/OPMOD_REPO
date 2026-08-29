@@ -3,6 +3,7 @@
   "displayname": "FREI WIE EIN VOGEL",
   "material": "ELYTRA",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

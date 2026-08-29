@@ -3,6 +3,7 @@
   "displayname": "Elderstab",
   "material": "NETHERITE_SWORD",
   "cmd": 10156,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

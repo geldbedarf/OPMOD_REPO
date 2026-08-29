@@ -3,6 +3,7 @@
   "displayname": "Unendliches TNT",
   "material": "TNT",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

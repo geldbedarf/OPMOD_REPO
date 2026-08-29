@@ -3,6 +3,7 @@
   "displayname": "Plüsch Chewbacca",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10323,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

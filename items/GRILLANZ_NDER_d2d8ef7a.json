@@ -3,6 +3,7 @@
   "displayname": "Grillanzünder",
   "material": "FIRE_CHARGE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

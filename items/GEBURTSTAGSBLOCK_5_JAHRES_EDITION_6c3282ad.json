@@ -3,6 +3,7 @@
   "displayname": "GEBURTSTAGSBLOCK 5. JAHRES EDITION",
   "material": "END_PORTAL_FRAME",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

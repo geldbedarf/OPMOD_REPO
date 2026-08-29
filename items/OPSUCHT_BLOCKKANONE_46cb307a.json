@@ -3,6 +3,7 @@
   "displayname": "OPSUCHT Blockkanone",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10583,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

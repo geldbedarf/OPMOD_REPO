@@ -3,6 +3,7 @@
   "displayname": "Redstonespitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10129,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

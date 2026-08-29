@@ -3,6 +3,7 @@
   "displayname": "Galaxien Beschützer",
   "material": "TOTEM_OF_UNDYING",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von Phorx am 28.08.2020",

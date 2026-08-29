@@ -3,6 +3,7 @@
   "displayname": "1.Platz TNT-Runer",
   "material": "TNT_MINECART",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

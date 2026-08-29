@@ -3,6 +3,7 @@
   "displayname": "x Rehkitz Helm x",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 2004,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

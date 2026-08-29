@@ -3,6 +3,7 @@
   "displayname": "Phils Rollator",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10361,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

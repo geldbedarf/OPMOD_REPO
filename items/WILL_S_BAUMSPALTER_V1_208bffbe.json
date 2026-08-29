@@ -3,6 +3,7 @@
   "displayname": "Will\u0027s Baumspalter v1",
   "material": "NETHERITE_AXE",
   "cmd": 10101,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

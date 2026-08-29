@@ -3,6 +3,7 @@
   "displayname": "Yamakuza Roller",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6229,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

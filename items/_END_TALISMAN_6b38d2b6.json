@@ -3,6 +3,7 @@
   "displayname": "⭐ End Talisman ⭐",
   "material": "END_ROD",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

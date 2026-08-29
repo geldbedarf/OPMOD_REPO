@@ -3,6 +3,7 @@
   "displayname": "Erdspalter-Schaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 802,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

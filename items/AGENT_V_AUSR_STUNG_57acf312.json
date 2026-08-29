@@ -3,6 +3,7 @@
   "displayname": "Agent V Ausrüstung",
   "material": "LEATHER_LEGGINGS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

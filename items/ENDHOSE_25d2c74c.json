@@ -3,6 +3,7 @@
   "displayname": "Endhose",
   "material": "IRON_LEGGINGS",
   "cmd": 10142,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

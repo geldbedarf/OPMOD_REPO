@@ -3,6 +3,7 @@
   "displayname": "Elfenschwinger",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10159,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

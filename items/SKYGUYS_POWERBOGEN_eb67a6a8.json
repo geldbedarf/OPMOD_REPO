@@ -3,6 +3,7 @@
   "displayname": "SkyGuys POWERBOGEN",
   "material": "BOW",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

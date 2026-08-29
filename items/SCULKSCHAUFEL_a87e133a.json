@@ -3,6 +3,7 @@
   "displayname": "Sculkschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10141,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

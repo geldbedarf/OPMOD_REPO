@@ -3,6 +3,7 @@
   "displayname": "Netherschuhe",
   "material": "IRON_BOOTS",
   "cmd": 10004,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

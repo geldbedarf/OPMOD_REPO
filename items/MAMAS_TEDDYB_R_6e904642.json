@@ -3,6 +3,7 @@
   "displayname": "Mamas Teddybär",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10252,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Schwert der glorreichen 5",
   "material": "DIAMOND_SWORD",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

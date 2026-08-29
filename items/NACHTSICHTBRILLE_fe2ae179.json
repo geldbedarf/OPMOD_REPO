@@ -3,6 +3,7 @@
   "displayname": "Nachtsichtbrille",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 890,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

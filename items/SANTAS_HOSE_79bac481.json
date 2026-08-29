@@ -3,6 +3,7 @@
   "displayname": "Santas Hose",
   "material": "LEATHER_LEGGINGS",
   "cmd": 10109,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

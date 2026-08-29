@@ -3,6 +3,7 @@
   "displayname": "Goldenes Osterei",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10313,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "",

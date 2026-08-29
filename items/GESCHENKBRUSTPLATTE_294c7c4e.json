@@ -3,6 +3,7 @@
   "displayname": "Geschenkbrustplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 5503,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

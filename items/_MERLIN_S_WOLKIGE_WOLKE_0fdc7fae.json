@@ -3,6 +3,7 @@
   "displayname": "☁ Merlin´s wolkige Wolke ☁",
   "material": "WHITE_WOOL",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von DieWolke am 25.02.2022",

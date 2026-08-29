@@ -3,6 +3,7 @@
   "displayname": "XX OPSUCHT Command Block XX",
   "material": "COMMAND_BLOCK",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

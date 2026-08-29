@@ -3,6 +3,7 @@
   "displayname": "NEWYEAR KRONE",
   "material": "GOLDEN_HELMET",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN.DE am 04.01.2021",

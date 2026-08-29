@@ -3,6 +3,7 @@
   "displayname": "Osterhasen Schaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10120,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

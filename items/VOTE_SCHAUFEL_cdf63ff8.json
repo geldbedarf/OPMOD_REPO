@@ -3,6 +3,7 @@
   "displayname": "Vote Schaufel",
   "material": "IRON_SHOVEL",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "➥ Perfekt für Anfänger",

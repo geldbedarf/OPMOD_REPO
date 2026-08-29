@@ -3,6 +3,7 @@
   "displayname": "Endangel",
   "material": "FISHING_ROD",
   "cmd": 10311,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Groots Sprössling",
   "material": "OAK_SAPLING",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

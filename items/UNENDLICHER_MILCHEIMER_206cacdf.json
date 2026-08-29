@@ -3,6 +3,7 @@
   "displayname": "Unendlicher Milcheimer",
   "material": "MILK_BUCKET",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

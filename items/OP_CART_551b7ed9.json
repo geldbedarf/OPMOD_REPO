@@ -3,6 +3,7 @@
   "displayname": "OP Cart",
   "material": "MINECART",
   "cmd": 1001,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

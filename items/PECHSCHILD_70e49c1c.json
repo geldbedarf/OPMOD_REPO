@@ -3,6 +3,7 @@
   "displayname": "Pechschild",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 12004,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

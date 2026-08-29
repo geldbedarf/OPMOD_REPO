@@ -3,6 +3,7 @@
   "displayname": "Kugel der Wahrheit",
   "material": "MAGMA_CREAM",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

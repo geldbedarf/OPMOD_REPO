@@ -3,6 +3,7 @@
   "displayname": "Bravado 6G",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6272,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

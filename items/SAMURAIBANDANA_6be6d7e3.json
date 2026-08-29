@@ -3,6 +3,7 @@
   "displayname": "Samuraibandana",
   "material": "IRON_HELMET",
   "cmd": 10203,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

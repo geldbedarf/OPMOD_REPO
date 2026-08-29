@@ -3,6 +3,7 @@
   "displayname": "Kohlespitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10153,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Geburtstags Stern",
   "material": "NETHER_STAR",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Signiert von leDevin am 21.10.2020",

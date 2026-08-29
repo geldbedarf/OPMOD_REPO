@@ -3,6 +3,7 @@
   "displayname": "Cabbi\u0027s Weltenzerstörer",
   "material": "DIAMOND_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von CabCabana am 02.01.2021",

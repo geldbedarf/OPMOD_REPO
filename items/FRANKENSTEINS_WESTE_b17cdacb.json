@@ -3,6 +3,7 @@
   "displayname": "Frankensteins Weste",
   "material": "IRON_CHESTPLATE",
   "cmd": 10131,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

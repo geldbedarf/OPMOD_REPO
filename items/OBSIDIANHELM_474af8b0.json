@@ -3,6 +3,7 @@
   "displayname": "Obsidianhelm",
   "material": "LEATHER_HELMET",
   "cmd": 10214,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Quarzschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10126,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

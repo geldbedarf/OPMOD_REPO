@@ -3,6 +3,7 @@
   "displayname": "Karottenrennwagen",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6325,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

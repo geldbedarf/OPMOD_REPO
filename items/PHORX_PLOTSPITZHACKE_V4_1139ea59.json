@@ -3,6 +3,7 @@
   "displayname": "Phorx Plotspitzhacke v4",
   "material": "DIAMOND_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Telepathie I",

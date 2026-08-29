@@ -3,6 +3,7 @@
   "displayname": "Impaladino Elegante",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6219,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

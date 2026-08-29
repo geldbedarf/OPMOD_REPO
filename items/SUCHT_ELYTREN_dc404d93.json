@@ -3,6 +3,7 @@
   "displayname": "SUCHT ELYTREN",
   "material": "ELYTRA",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

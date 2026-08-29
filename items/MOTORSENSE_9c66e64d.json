@@ -3,6 +3,7 @@
   "displayname": "Motorsense",
   "material": "NETHERITE_HOE",
   "cmd": 10161,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

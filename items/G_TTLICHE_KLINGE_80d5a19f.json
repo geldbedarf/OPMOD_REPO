@@ -3,6 +3,7 @@
   "displayname": "Göttliche Klinge",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 10009,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

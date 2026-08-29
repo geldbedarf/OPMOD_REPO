@@ -3,6 +3,7 @@
   "displayname": "OP Schwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10701,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

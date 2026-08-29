@@ -3,6 +3,7 @@
   "displayname": "Iron Man Hose",
   "material": "IRON_LEGGINGS",
   "cmd": 10126,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

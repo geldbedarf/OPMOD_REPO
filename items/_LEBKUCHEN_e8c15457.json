@@ -3,6 +3,7 @@
   "displayname": "❄ Lebkuchen ❄",
   "material": "BRICK",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

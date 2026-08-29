@@ -3,6 +3,7 @@
   "displayname": "Geburtstagslicht",
   "material": "BEACON",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

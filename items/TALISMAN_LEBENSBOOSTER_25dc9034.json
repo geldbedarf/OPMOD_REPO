@@ -3,6 +3,7 @@
   "displayname": "Talisman ✦ Lebensbooster",
   "material": "REDSTONE",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

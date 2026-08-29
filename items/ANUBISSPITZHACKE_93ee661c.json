@@ -3,6 +3,7 @@
   "displayname": "Anubisspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10180,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

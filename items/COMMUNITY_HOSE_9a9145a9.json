@@ -3,6 +3,7 @@
   "displayname": "Community Hose",
   "material": "LEATHER_LEGGINGS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Nutzt die Kraft der Community {3/8}",

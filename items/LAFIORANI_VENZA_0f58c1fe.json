@@ -3,6 +3,7 @@
   "displayname": "LaFiorani Venza",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6216,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

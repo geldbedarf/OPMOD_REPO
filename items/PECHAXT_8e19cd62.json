@@ -3,6 +3,7 @@
   "displayname": "Pechaxt",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 12000,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

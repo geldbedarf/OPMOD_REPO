@@ -3,6 +3,7 @@
   "displayname": "Valentinstags Kuschelbär",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10266,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Schlangenstiefel",
   "material": "IRON_BOOTS",
   "cmd": 10140,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

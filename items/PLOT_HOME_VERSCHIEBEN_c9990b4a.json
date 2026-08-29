@@ -3,6 +3,7 @@
   "displayname": "Plot-Home verschieben",
   "material": "PAPER",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "Mit diesem Item kannst du",

@@ -3,6 +3,7 @@
   "displayname": "Osterhasen Mütze V2",
   "material": "LEATHER_HELMET",
   "cmd": 10211,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Devins Adminhacke ",
   "material": "DIAMOND_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von leDevin am 24.02.2020"

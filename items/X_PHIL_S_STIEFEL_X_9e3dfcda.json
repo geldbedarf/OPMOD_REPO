@@ -3,6 +3,7 @@
   "displayname": "x Phil´s Stiefel x",
   "material": "LEATHER_BOOTS",
   "cmd": 10102,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Drachenhose",
   "material": "IRON_LEGGINGS",
   "cmd": 10104,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

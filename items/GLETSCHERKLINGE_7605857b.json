@@ -3,6 +3,7 @@
   "displayname": "Gletscherklinge",
   "material": "NETHERITE_SWORD",
   "cmd": 5501,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

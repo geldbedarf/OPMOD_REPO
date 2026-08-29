@@ -3,6 +3,7 @@
   "displayname": "Mounts of Mayhem Statue",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6329,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

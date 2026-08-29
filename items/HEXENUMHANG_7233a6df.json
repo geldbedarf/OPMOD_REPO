@@ -3,6 +3,7 @@
   "displayname": "Hexenumhang",
   "material": "IRON_CHESTPLATE",
   "cmd": 10013,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

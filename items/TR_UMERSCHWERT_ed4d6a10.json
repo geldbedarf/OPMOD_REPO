@@ -3,6 +3,7 @@
   "displayname": "Träumerschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 5502,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

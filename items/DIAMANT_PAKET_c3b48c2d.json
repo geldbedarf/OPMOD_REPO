@@ -3,6 +3,7 @@
   "displayname": "Diamant Paket",
   "material": "LIGHT_BLUE_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

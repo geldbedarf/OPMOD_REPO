@@ -3,6 +3,7 @@
   "displayname": "Vampirspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 5504,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

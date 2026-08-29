@@ -3,6 +3,7 @@
   "displayname": "Impulsspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 5528,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

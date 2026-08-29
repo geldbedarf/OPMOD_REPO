@@ -3,6 +3,7 @@
   "displayname": "Bantha-Milch",
   "material": "POTION",
   "cmd": 0,
+  "category": "TRAENKE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Knochenangel",
   "material": "FISHING_ROD",
   "cmd": 5513,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

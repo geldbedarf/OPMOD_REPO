@@ -3,6 +3,7 @@
   "displayname": "Spawner Finder",
   "material": "SPAWNER",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

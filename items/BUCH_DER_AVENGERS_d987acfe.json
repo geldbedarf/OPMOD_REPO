@@ -3,6 +3,7 @@
   "displayname": "Buch der AVENGERS",
   "material": "BOOK",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

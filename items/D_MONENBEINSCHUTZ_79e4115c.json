@@ -3,6 +3,7 @@
   "displayname": "Dämonenbeinschutz",
   "material": "IRON_LEGGINGS",
   "cmd": 10135,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

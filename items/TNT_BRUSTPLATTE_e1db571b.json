@@ -3,6 +3,7 @@
   "displayname": "TNT Brustplatte",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 10119,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

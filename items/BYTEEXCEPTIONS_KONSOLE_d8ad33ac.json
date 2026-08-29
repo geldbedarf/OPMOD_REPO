@@ -3,6 +3,7 @@
   "displayname": "ByteExceptions Konsole",
   "material": "COMPARATOR",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "GOLDEN BLACK Schwert",
   "material": "NETHERITE_SWORD",
   "cmd": 5509,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Kükenhiebchen",
   "material": "NETHERITE_AXE",
   "cmd": 5526,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

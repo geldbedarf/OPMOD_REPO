@@ -3,6 +3,7 @@
   "displayname": "✳ Sonnen Talisman ✳",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10425,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

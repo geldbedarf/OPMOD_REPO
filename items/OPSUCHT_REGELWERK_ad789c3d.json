@@ -3,6 +3,7 @@
   "displayname": "OPSUCHT Regelwerk",
   "material": "GLOBE_BANNER_PATTERN",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Hier stehen die Regeln des OPSUCHT.NET Netzwerkes!",

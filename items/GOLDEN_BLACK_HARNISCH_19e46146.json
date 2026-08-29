@@ -3,6 +3,7 @@
   "displayname": "GOLDEN BLACK Harnisch",
   "material": "IRON_CHESTPLATE",
   "cmd": 5509,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

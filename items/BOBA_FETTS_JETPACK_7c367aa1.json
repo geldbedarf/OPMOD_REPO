@@ -3,6 +3,7 @@
   "displayname": "Boba Fetts Jetpack",
   "material": "ELYTRA",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

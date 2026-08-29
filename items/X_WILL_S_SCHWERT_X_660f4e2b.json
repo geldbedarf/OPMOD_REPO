@@ -3,6 +3,7 @@
   "displayname": "X Will\u0027s Schwert X",
   "material": "NETHERITE_SWORD",
   "cmd": 10120,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

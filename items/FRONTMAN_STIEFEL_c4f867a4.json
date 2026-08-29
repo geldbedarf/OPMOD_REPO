@@ -3,6 +3,7 @@
   "displayname": "Frontman Stiefel",
   "material": "IRON_BOOTS",
   "cmd": 25000,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

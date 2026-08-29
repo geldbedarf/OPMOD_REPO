@@ -3,6 +3,7 @@
   "displayname": "Plüsch Yoda",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10360,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

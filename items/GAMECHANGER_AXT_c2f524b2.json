@@ -3,6 +3,7 @@
   "displayname": "Gamechanger Axt",
   "material": "NETHERITE_AXE",
   "cmd": 10004,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

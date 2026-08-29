@@ -3,6 +3,7 @@
   "displayname": "Labyrinth Gewinner 2. Platz",
   "material": "RECOVERY_COMPASS",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

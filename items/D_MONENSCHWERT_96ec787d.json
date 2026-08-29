@@ -3,6 +3,7 @@
   "displayname": "Dämonenschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10143,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

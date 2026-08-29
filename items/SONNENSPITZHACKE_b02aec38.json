@@ -3,6 +3,7 @@
   "displayname": "Sonnenspitzhacke",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 10029,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

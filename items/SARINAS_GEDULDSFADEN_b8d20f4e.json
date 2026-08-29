@@ -3,6 +3,7 @@
   "displayname": "Sarinas Geduldsfaden",
   "material": "STRING",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von SarinaEFN am 06.10.2020",

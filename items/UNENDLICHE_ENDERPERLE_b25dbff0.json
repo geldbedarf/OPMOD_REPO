@@ -3,6 +3,7 @@
   "displayname": "Unendliche Enderperle",
   "material": "ENDER_PEARL",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

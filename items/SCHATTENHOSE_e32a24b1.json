@@ -3,6 +3,7 @@
   "displayname": "Schattenhose",
   "material": "LEATHER_LEGGINGS",
   "cmd": 10107,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Liebesschiff",
   "material": "CHERRY_BOAT",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

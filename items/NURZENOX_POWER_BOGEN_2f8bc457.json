@@ -3,6 +3,7 @@
   "displayname": "NurZenox Power Bogen ",
   "material": "BOW",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "Signiert von NurZenox am 10.05.2020",

@@ -3,6 +3,7 @@
   "displayname": "🍂 Frühlingshose 🍂",
   "material": "IRON_LEGGINGS",
   "cmd": 10140,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Die Frühlingshose hält dich warm und",

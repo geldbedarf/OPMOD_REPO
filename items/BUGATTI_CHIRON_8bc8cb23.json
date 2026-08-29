@@ -3,6 +3,7 @@
   "displayname": "Bugatti Chiron",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10526,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Devins OP Bogen v2",
   "material": "BOW",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "Signiert von leDevin am 25.06.20201",

@@ -3,6 +3,7 @@
   "displayname": "Plotspitzhacke V6",
   "material": "NETHERITE_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Telepathie I",

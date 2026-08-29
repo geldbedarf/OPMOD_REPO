@@ -3,6 +3,7 @@
   "displayname": "Lanzenstechzeug",
   "material": "IRON_HORSE_ARMOR",
   "cmd": 0,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

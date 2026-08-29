@@ -3,6 +3,7 @@
   "displayname": "TR3Xs ✸ verlorener Knochen",
   "material": "BONE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Signiert von _TR3X am 25.02.2022",

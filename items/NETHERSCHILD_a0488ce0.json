@@ -3,6 +3,7 @@
   "displayname": "Netherschild",
   "material": "SHIELD",
   "cmd": 10125,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

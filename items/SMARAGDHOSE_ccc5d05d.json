@@ -3,6 +3,7 @@
   "displayname": "Smaragdhose",
   "material": "IRON_LEGGINGS",
   "cmd": 10113,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

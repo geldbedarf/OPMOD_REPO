@@ -3,6 +3,7 @@
   "displayname": "Zepter vom Kobold",
   "material": "NETHERITE_SWORD",
   "cmd": 10108,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

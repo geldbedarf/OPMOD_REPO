@@ -3,6 +3,7 @@
   "displayname": "Knoblauch",
   "material": "QUARTZ",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "x Phil´s Helm x",
   "material": "LEATHER_HELMET",
   "cmd": 10202,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

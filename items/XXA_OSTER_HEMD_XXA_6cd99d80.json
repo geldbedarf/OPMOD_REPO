@@ -3,6 +3,7 @@
   "displayname": "xxa OSTER HEMD xxa",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 10401,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert vom Osterhasen am 09.04.2023",

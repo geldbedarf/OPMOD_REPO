@@ -3,6 +3,7 @@
   "displayname": "Dev-Todolist",
   "material": "MOJANG_BANNER_PATTERN",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Hier stehen alle Todos der Developer",

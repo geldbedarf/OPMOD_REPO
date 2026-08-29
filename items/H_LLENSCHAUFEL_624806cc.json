@@ -3,6 +3,7 @@
   "displayname": "Höllenschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 6002,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

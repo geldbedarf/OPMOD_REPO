@@ -3,6 +3,7 @@
   "displayname": "ARC-Minireaktor",
   "material": "NAUTILUS_SHELL",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

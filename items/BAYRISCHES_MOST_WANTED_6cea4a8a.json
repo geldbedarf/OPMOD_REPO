@@ -3,6 +3,7 @@
   "displayname": "Bayrisches Most Wanted",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6218,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

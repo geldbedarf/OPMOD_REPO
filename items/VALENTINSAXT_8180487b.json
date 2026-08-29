@@ -3,6 +3,7 @@
   "displayname": "Valentinsaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10116,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

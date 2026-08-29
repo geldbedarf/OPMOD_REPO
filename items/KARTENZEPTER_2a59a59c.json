@@ -3,6 +3,7 @@
   "displayname": "Kartenzepter",
   "material": "NETHERITE_SWORD",
   "cmd": 10003,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

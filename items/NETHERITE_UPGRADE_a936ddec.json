@@ -3,6 +3,7 @@
   "displayname": "Netherite Upgrade",
   "material": "NETHERITE_UPGRADE_SMITHING_TEMPLATE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

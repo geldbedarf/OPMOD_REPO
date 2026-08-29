@@ -3,6 +3,7 @@
   "displayname": "Champions Boosterpack",
   "material": "PAPER",
   "cmd": 3300,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

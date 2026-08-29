@@ -3,6 +3,7 @@
   "displayname": "Harnisch des Olymp",
   "material": "IRON_CHESTPLATE",
   "cmd": 6000,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Kirschblütenfächer",
   "material": "NETHERITE_SWORD",
   "cmd": 10007,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Kükenklinge",
   "material": "NETHERITE_SWORD",
   "cmd": 5526,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

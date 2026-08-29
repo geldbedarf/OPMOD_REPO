@@ -1,0 +1,25 @@
+{
+  "internalname": "POK_BALL_b5e364a3",
+  "displayname": "Pokéball",
+  "material": "GOLDEN_HORSE_ARMOR",
+  "cmd": 10420,
+  "damage": 0,
+  "lore": [
+    "",
+    "Fangt Tiere in der Farmwelt",
+    "und bringt sie in die Plotwelt.",
+    "",
+    "Von Kühen bis Elefanten,",
+    "die Möglichkeiten sind endlos!",
+    "",
+    "Achtung: Insgesamt 5 Benutzungen!",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Selten",
+    " ",
+    "Haltbarkeit: 0/5"
+  ],
+  "nbttag": "{components:{\"minecraft:attribute_modifiers\":[],\"minecraft:custom_data\":{IWCustomItems:{abilities:[{POKEBALL:1}],usage:{current:0,max:5}}},\"minecraft:custom_model_data\":{floats:[10420.0f]},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#F55252\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"P\",underlined:0b},{bold:1b,color:\"#F56969\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"o\",underlined:0b},{bold:1b,color:\"#F58181\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"k\",underlined:0b},{bold:1b,color:\"#F59898\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"é\",underlined:0b},{bold:1b,color:\"#F5AFAF\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"b\",underlined:0b},{bold:1b,color:\"#F5C6C6\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"a\",underlined:0b},{bold:1b,color:\"#F5DEDE\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b},{bold:1b,color:\"#F5F5F5\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b}],text:\"\"},\"minecraft:dyed_color\":10511680,\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"gray\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Fangt Tiere in der Farmwelt\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"und bringt sie in die Plotwelt.\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"gold\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Von Kühen bis Elefanten,\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gold\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"die Möglichkeiten sind endlos!\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"red\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Achtung: Insgesamt 5 Benutzungen!\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"gold\",italic:0b,text:\"Selten\"}],text:\"\"},{extra:[\" \"],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Haltbarkeit: \",underlined:0b},{color:\"aqua\",italic:0b,text:\"0\"},{color:\"gray\",italic:0b,text:\"/\"},{color:\"aqua\",italic:0b,text:\"5\"},{color:\"gray\",italic:0b,text:\"\"}],text:\"\"}],\"minecraft:tooltip_display\":{hidden_components:[\"minecraft:enchantments\",\"minecraft:dyed_color\"]}},count:1,id:\"minecraft:golden_horse_armor\"}",
+  "capturedAt": "2026-08-29T19:25:08.433Z",
+  "category": "SONSTIGES"
+}

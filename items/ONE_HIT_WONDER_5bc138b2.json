@@ -3,6 +3,7 @@
   "displayname": "One Hit Wonder",
   "material": "NETHERITE_SWORD",
   "cmd": 10901,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "TIE-Fighter",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10902,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

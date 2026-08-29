@@ -3,6 +3,7 @@
   "displayname": "Kohleangel",
   "material": "FISHING_ROD",
   "cmd": 10306,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

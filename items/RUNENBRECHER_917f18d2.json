@@ -3,6 +3,7 @@
   "displayname": "Runenbrecher",
   "material": "NETHERITE_AXE",
   "cmd": 10154,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

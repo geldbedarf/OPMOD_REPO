@@ -3,6 +3,7 @@
   "displayname": "Zuckerstangen Schwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10112,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

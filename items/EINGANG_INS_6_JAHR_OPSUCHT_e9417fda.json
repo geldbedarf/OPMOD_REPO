@@ -3,6 +3,7 @@
   "displayname": "Eingang ins 6. Jahr OPSUCHT",
   "material": "WARPED_DOOR",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

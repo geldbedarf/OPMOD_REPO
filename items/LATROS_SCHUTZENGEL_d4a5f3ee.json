@@ -3,6 +3,7 @@
   "displayname": "Latros Schutzengel",
   "material": "TOTEM_OF_UNDYING",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von Latro7002 am 25.02.2022",

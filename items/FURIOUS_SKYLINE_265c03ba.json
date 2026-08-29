@@ -3,6 +3,7 @@
   "displayname": "Furious Skyline",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6224,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

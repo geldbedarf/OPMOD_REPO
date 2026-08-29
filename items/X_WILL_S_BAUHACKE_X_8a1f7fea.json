@@ -3,6 +3,7 @@
   "displayname": "x Will´s Bauhacke x",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10106,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

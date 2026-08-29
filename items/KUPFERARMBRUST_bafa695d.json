@@ -3,6 +3,7 @@
   "displayname": "Kupferarmbrust",
   "material": "CROSSBOW",
   "cmd": 10008,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

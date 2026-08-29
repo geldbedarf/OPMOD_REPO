@@ -3,6 +3,7 @@
   "displayname": "TigressTV´s Fingerklopper",
   "material": "BLAZE_ROD",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Signiert von TigressTV am 06.02.2021",

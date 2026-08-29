@@ -3,6 +3,7 @@
   "displayname": "x DEVINS Hardcore COOKIE x",
   "material": "COOKIE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "",

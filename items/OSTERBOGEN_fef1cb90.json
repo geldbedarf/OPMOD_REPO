@@ -3,6 +3,7 @@
   "displayname": "Osterbogen ",
   "material": "BOW",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [],
   "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"green\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Osterbogen \",underlined:0b}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:flame\":2,\"minecraft:infinity\":10,\"minecraft:mending\":2,\"minecraft:power\":6,\"minecraft:punch\":3}},count:1,id:\"minecraft:bow\"}",

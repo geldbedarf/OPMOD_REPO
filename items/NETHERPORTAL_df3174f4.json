@@ -3,6 +3,7 @@
   "displayname": "Netherportal",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3067,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

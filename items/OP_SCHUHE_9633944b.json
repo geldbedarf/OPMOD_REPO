@@ -3,6 +3,7 @@
   "displayname": "OP Schuhe ",
   "material": "DIAMOND_BOOTS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert von SkyGuyTV am 05.06.2021"

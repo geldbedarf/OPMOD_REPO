@@ -3,6 +3,7 @@
   "displayname": "Oster Kuh Paket",
   "material": "BROWN_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

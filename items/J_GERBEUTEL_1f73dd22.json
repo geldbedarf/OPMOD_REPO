@@ -3,6 +3,7 @@
   "displayname": "Jägerbeutel",
   "material": "LIGHT_BLUE_BUNDLE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

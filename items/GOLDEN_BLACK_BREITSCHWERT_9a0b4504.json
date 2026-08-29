@@ -3,6 +3,7 @@
   "displayname": "GOLDEN BLACK Breitschwert",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 816,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

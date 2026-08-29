@@ -3,6 +3,7 @@
   "displayname": "II OPSUCHT Bannhammer II",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10201,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

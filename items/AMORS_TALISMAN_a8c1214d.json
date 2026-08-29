@@ -3,6 +3,7 @@
   "displayname": "Amors Talisman",
   "material": "TOTEM_OF_UNDYING",
   "cmd": 10001,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

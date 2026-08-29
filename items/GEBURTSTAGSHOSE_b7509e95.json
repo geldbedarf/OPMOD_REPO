@@ -3,6 +3,7 @@
   "displayname": "GEBURTSTAGSHOSE",
   "material": "DIAMOND_LEGGINGS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "6 Jahre Durchrasten",

@@ -3,6 +3,7 @@
   "displayname": "Kuchenmesser",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10109,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

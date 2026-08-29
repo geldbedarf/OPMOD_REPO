@@ -3,6 +3,7 @@
   "displayname": "❤ Drachenei der Herzen ❤",
   "material": "DRAGON_EGG",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "In diesem Ei schlägt ein Herz für",

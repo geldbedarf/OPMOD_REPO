@@ -3,6 +3,7 @@
   "displayname": "Spekulatius",
   "material": "NETHERITE_SCRAP",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

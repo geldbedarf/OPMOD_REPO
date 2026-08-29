@@ -3,6 +3,7 @@
   "displayname": "Eisbrecherpicke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10013,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

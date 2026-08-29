@@ -3,6 +3,7 @@
   "displayname": "NurZenAxt",
   "material": "DIAMOND_AXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von NurZenox am 06.02.2021",

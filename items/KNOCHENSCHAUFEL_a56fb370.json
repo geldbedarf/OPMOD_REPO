@@ -3,6 +3,7 @@
   "displayname": "Knochenschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 5513,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Luke Skywalkers X-Wing",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10901,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

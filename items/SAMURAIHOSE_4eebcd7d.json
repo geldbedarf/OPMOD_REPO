@@ -3,6 +3,7 @@
   "displayname": "Samuraihose",
   "material": "IRON_LEGGINGS",
   "cmd": 10105,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

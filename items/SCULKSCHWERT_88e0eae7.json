@@ -3,6 +3,7 @@
   "displayname": "Sculkschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10163,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

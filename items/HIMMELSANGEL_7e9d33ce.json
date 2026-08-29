@@ -3,6 +3,7 @@
   "displayname": "Himmelsangel",
   "material": "FISHING_ROD",
   "cmd": 10314,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

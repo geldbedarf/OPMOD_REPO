@@ -3,6 +3,7 @@
   "displayname": "Netheraxt",
   "material": "NETHERITE_AXE",
   "cmd": 10147,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

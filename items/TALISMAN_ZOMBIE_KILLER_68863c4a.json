@@ -3,6 +3,7 @@
   "displayname": "Talisman ✦ Zombie Killer",
   "material": "ROTTEN_FLESH",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Stein der Weisen",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10598,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Creakingschild",
   "material": "SHIELD",
   "cmd": 5527,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

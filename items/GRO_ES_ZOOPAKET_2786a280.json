@@ -3,6 +3,7 @@
   "displayname": "Großes Zoopaket",
   "material": "GRAY_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 06.02.2021",

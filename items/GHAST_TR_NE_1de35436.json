@@ -3,6 +3,7 @@
   "displayname": "Ghast-Träne",
   "material": "GHAST_TEAR",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Smaragdspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10120,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

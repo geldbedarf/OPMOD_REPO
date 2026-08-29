@@ -3,6 +3,7 @@
   "displayname": "Ender Ei",
   "material": "DRAGON_EGG",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Plüsch Stormtrooper",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10359,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

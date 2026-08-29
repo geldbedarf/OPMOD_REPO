@@ -3,6 +3,7 @@
   "displayname": "Thunder´s Pyromanen Feuerzeug",
   "material": "FLINT_AND_STEEL",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Signiert von ThunderNRW am 27.07.2020",

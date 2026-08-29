@@ -3,6 +3,7 @@
   "displayname": "Hawkeye\u0027s Bogen",
   "material": "BOW",
   "cmd": 10201,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

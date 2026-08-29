@@ -3,6 +3,7 @@
   "displayname": "GOLDEN BLACK Hacke",
   "material": "NETHERITE_HOE",
   "cmd": 5509,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

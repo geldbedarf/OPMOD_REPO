@@ -3,6 +3,7 @@
   "displayname": "Lucius\u0027 Zauberstab",
   "material": "NETHERITE_SWORD",
   "cmd": 10158,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

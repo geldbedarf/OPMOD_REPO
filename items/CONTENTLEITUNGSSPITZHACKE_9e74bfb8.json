@@ -3,6 +3,7 @@
   "displayname": "Contentleitungsspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10009,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

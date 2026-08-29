@@ -3,6 +3,7 @@
   "displayname": "Shard Endportalrahmen",
   "material": "END_PORTAL_FRAME",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

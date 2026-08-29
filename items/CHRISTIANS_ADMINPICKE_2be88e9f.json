@@ -3,6 +3,7 @@
   "displayname": "Christians Adminpicke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 5500,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

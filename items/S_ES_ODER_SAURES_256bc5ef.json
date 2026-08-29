@@ -3,6 +3,7 @@
   "displayname": "Süßes oder Saures?",
   "material": "ORANGE_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

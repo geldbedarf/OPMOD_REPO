@@ -3,6 +3,7 @@
   "displayname": "Kupfer Paket",
   "material": "ORANGE_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "1x Kupfer Block +3 Herzen",

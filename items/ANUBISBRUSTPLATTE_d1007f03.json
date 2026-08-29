@@ -3,6 +3,7 @@
   "displayname": "Anubisbrustplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 10010,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

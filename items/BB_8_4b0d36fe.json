@@ -3,6 +3,7 @@
   "displayname": "BB-8",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10362,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

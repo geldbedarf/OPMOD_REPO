@@ -3,6 +3,7 @@
   "displayname": "Creeper Schuhe",
   "material": "DIAMOND_BOOTS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 22.10.2021",

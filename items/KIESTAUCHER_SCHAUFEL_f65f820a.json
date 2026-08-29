@@ -3,6 +3,7 @@
   "displayname": "Kiestaucher-Schaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 801,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

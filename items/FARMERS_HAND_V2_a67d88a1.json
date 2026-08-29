@@ -3,6 +3,7 @@
   "displayname": "Farmers Hand v2",
   "material": "DIAMOND_HOE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Pflug",

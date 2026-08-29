@@ -3,6 +3,7 @@
   "displayname": "Valentinshose",
   "material": "LEATHER_LEGGINGS",
   "cmd": 10117,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

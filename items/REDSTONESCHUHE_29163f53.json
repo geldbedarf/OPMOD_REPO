@@ -3,6 +3,7 @@
   "displayname": "Redstoneschuhe",
   "material": "IRON_BOOTS",
   "cmd": 10115,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

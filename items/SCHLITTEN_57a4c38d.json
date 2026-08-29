@@ -3,6 +3,7 @@
   "displayname": "Schlitten",
   "material": "OAK_CHEST_BOAT",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

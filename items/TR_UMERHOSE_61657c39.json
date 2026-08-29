@@ -3,6 +3,7 @@
   "displayname": "Träumerhose",
   "material": "IRON_LEGGINGS",
   "cmd": 5502,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

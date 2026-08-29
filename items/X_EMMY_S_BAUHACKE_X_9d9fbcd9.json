@@ -3,6 +3,7 @@
   "displayname": "x Emmy´s Bauhacke x",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10112,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

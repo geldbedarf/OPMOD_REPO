@@ -3,6 +3,7 @@
   "displayname": "Shulkeraxt",
   "material": "NETHERITE_AXE",
   "cmd": 5523,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

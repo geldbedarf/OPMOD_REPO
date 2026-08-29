@@ -3,6 +3,7 @@
   "displayname": "Gleis 9¾",
   "material": "RAIL",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

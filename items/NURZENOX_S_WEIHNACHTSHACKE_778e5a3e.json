@@ -3,6 +3,7 @@
   "displayname": "NurZenox\u0027s Weihnachtshacke",
   "material": "DIAMOND_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von NurZenox am 10.12.2020",

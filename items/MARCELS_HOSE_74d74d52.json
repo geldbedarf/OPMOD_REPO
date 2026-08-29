@@ -3,6 +3,7 @@
   "displayname": "Marcels Hose",
   "material": "LEATHER_LEGGINGS",
   "cmd": 10118,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

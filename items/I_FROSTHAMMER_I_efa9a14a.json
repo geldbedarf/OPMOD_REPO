@@ -3,6 +3,7 @@
   "displayname": "i Frosthammer i",
   "material": "NETHERITE_SWORD",
   "cmd": 10001,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

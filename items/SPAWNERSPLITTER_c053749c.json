@@ -3,6 +3,7 @@
   "displayname": "Spawnersplitter",
   "material": "PAPER",
   "cmd": 606,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

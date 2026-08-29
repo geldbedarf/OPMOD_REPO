@@ -3,6 +3,7 @@
   "displayname": "Jagdmesser",
   "material": "NETHERITE_SWORD",
   "cmd": 800,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

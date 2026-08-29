@@ -3,6 +3,7 @@
   "displayname": "Anubisshelm",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10608,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

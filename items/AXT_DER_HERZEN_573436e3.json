@@ -3,6 +3,7 @@
   "displayname": "Axt der Herzen",
   "material": "NETHERITE_AXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

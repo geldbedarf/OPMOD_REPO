@@ -3,6 +3,7 @@
   "displayname": "Drachenschild",
   "material": "SHIELD",
   "cmd": 10102,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Philips Jackett",
   "material": "IRON_CHESTPLATE",
   "cmd": 5512,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

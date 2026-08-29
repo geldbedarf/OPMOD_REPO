@@ -3,6 +3,7 @@
   "displayname": "Plüsch Marcel",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 15500,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

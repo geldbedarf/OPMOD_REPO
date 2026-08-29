@@ -3,6 +3,7 @@
   "displayname": "Lapisspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10126,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

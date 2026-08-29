@@ -3,6 +3,7 @@
   "displayname": "Neujahrsballons",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6208,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

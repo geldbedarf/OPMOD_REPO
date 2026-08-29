@@ -3,6 +3,7 @@
   "displayname": "Schattenstiefel",
   "material": "LEATHER_BOOTS",
   "cmd": 10107,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

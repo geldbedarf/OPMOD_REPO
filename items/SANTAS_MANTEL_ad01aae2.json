@@ -3,6 +3,7 @@
   "displayname": "Santas Mantel",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 10109,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

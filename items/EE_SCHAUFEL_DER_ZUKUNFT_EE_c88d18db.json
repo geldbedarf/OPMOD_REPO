@@ -3,6 +3,7 @@
   "displayname": "ee Schaufel der Zukunft ee",
   "material": "NETHERITE_SHOVEL",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

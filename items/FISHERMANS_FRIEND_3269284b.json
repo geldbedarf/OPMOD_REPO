@@ -3,6 +3,7 @@
   "displayname": "Fishermans Friend",
   "material": "FISHING_ROD",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

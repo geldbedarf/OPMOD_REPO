@@ -3,6 +3,7 @@
   "displayname": "VK ★ Schwert",
   "material": "NETHERITE_SWORD",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

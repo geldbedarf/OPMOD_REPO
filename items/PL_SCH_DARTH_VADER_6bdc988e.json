@@ -3,6 +3,7 @@
   "displayname": "Plüsch Darth Vader",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10324,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Quarzschild",
   "material": "SHIELD",
   "cmd": 10118,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

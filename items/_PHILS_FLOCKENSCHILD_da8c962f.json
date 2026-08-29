@@ -3,6 +3,7 @@
   "displayname": "❅ Phils Flockenschild ❅",
   "material": "SHIELD",
   "cmd": 10105,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

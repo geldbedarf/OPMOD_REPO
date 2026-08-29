@@ -3,6 +3,7 @@
   "displayname": "DURA BAUBLOCK",
   "material": "STRUCTURE_BLOCK",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Excalibur",
   "material": "NETHERITE_SWORD",
   "cmd": 10011,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

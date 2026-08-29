@@ -3,6 +3,7 @@
   "displayname": "Nether Forstaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10013,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

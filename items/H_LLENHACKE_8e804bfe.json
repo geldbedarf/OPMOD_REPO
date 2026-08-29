@@ -3,6 +3,7 @@
   "displayname": "Höllenhacke",
   "material": "NETHERITE_HOE",
   "cmd": 6002,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

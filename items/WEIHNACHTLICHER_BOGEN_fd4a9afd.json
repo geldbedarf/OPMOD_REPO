@@ -3,6 +3,7 @@
   "displayname": "Weihnachtlicher Bogen",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 10011,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

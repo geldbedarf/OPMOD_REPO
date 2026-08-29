@@ -3,6 +3,7 @@
   "displayname": "Devin\u0027s Infinity Hacke v3",
   "material": "DIAMOND_PICKAXE",
   "cmd": 1003,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

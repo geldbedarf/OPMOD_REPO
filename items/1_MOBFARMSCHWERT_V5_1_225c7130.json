@@ -3,6 +3,7 @@
   "displayname": "1 Mobfarmschwert v5 1",
   "material": "NETHERITE_SWORD",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     " ",

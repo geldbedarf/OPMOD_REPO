@@ -3,6 +3,7 @@
   "displayname": "Deadpools Stiefel",
   "material": "IRON_BOOTS",
   "cmd": 10128,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Bergziege",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3102,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Nimm das Quarz",
   "material": "CYAN_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Drachenbogen",
   "material": "BOW",
   "cmd": 10102,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

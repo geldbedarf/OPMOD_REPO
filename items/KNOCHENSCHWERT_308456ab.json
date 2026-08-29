@@ -3,6 +3,7 @@
   "displayname": "Knochenschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 5513,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Redstone Paket",
   "material": "RED_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "1x Redstone block +2 Angriffsschaden",

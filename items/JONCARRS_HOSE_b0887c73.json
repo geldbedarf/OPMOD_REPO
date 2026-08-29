@@ -3,6 +3,7 @@
   "displayname": "JonCarrs Hose",
   "material": "IRON_LEGGINGS",
   "cmd": 10134,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

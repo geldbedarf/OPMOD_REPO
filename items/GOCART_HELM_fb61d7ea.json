@@ -3,6 +3,7 @@
   "displayname": "GoCart Helm",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10118,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

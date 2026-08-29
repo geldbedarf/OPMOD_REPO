@@ -3,6 +3,7 @@
   "displayname": "Unendliche Karte",
   "material": "MAP",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

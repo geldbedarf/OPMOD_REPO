@@ -3,6 +3,7 @@
   "displayname": "Reicher Villager",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3071,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

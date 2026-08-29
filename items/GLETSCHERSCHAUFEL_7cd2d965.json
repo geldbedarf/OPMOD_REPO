@@ -3,6 +3,7 @@
   "displayname": "Gletscherschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 5501,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

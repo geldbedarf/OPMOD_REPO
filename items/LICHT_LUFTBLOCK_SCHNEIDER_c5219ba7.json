@@ -3,6 +3,7 @@
   "displayname": "Licht-/Luftblock-Schneider",
   "material": "SHEARS",
   "cmd": 15000,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

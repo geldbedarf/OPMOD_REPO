@@ -3,6 +3,7 @@
   "displayname": "Elementarhandschuh",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 908,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

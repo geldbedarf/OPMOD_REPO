@@ -3,6 +3,7 @@
   "displayname": "Hühner",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3110,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

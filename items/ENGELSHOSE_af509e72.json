@@ -3,6 +3,7 @@
   "displayname": "Engelshose",
   "material": "LEATHER_LEGGINGS",
   "cmd": 10301,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

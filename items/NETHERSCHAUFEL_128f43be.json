@@ -3,6 +3,7 @@
   "displayname": "Netherschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10139,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

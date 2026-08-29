@@ -3,6 +3,7 @@
   "displayname": "Holzfällers Traum",
   "material": "GREEN_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

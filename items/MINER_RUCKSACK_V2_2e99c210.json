@@ -3,6 +3,7 @@
   "displayname": "Miner Rucksack v2",
   "material": "LIGHT_GRAY_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Darth Vader\u0027s Lichtschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10126,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

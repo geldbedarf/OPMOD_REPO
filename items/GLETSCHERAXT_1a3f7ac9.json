@@ -3,6 +3,7 @@
   "displayname": "Gletscheraxt",
   "material": "NETHERITE_AXE",
   "cmd": 5501,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

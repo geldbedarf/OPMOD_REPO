@@ -3,6 +3,7 @@
   "displayname": "BDAY Angel",
   "material": "FISHING_ROD",
   "cmd": 10308,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

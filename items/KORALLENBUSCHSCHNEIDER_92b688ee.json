@@ -3,6 +3,7 @@
   "displayname": "Korallenbuschschneider",
   "material": "SHEARS",
   "cmd": 100,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

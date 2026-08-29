@@ -3,6 +3,7 @@
   "displayname": "Gamoras Schwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10132,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

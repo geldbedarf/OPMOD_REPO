@@ -3,6 +3,7 @@
   "displayname": "Kükenklopfer",
   "material": "NETHERITE_PICKAXE",
   "cmd": 5526,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

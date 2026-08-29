@@ -3,6 +3,7 @@
   "displayname": "ThunderNRW´s Spezial Lavaeimer",
   "material": "LAVA_BUCKET",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Fluch der Verbrennung",

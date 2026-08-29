@@ -3,6 +3,7 @@
   "displayname": "Redstonekessel",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6341,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

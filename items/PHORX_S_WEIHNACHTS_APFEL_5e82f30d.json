@@ -3,6 +3,7 @@
   "displayname": "Phorx\u0027s Weihnachts Apfel",
   "material": "GOLDEN_APPLE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "────────────────────",

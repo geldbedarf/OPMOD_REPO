@@ -3,6 +3,7 @@
   "displayname": "Endschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10136,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

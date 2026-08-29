@@ -3,6 +3,7 @@
   "displayname": "Reisender SkyGuyTV",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3073,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

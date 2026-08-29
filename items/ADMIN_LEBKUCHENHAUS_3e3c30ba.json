@@ -3,6 +3,7 @@
   "displayname": "ADMIN Lebkuchenhaus",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10545,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

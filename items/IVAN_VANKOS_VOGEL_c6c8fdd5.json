@@ -3,6 +3,7 @@
   "displayname": "Ivan Vankos Vogel",
   "material": "PARROT_SPAWN_EGG",
   "cmd": 0,
+  "category": "SPAWNER",
   "damage": 0,
   "lore": [
     "",

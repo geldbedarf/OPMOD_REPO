@@ -3,6 +3,7 @@
   "displayname": "Luzi´s schwarzer Seelenwürfel",
   "material": "BLACK_CONCRETE",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von Luzius_Amduzias am 25.02.2022",

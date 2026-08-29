@@ -3,6 +3,7 @@
   "displayname": "Osterhase`s Kuchen",
   "material": "CAKE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Signiert von leDevin am 31.03.2021"

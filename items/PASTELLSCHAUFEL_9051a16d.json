@@ -3,6 +3,7 @@
   "displayname": "Pastellschaufel",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 13003,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

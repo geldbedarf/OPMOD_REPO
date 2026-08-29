@@ -3,6 +3,7 @@
   "displayname": "Power Blume ",
   "material": "RED_TULIP",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von SkyGuyTV am 12.08.2020",

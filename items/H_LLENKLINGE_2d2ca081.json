@@ -3,6 +3,7 @@
   "displayname": "Höllenklinge",
   "material": "NETHERITE_SWORD",
   "cmd": 6002,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

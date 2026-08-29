@@ -3,6 +3,7 @@
   "displayname": "Unendliches Knochenmehl",
   "material": "BONE_MEAL",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

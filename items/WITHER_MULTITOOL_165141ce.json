@@ -3,6 +3,7 @@
   "displayname": "Wither Multitool",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10001,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

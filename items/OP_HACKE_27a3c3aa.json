@@ -3,6 +3,7 @@
   "displayname": "OP Hacke",
   "material": "NETHERITE_HOE",
   "cmd": 10101,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

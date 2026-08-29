@@ -3,6 +3,7 @@
   "displayname": "Polarstern",
   "material": "NETHER_STAR",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

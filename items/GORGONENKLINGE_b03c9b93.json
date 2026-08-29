@@ -3,6 +3,7 @@
   "displayname": "Gorgonenklinge",
   "material": "NETHERITE_SWORD",
   "cmd": 10501,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

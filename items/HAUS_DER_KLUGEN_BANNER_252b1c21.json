@@ -3,6 +3,7 @@
   "displayname": "Haus der Klugen Banner",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10603,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

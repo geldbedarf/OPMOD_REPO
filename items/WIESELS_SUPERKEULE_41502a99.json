@@ -3,6 +3,7 @@
   "displayname": "Wiesels Superkeule",
   "material": "STICK",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Signiert von DasWiesel83 am 06.10.2020",

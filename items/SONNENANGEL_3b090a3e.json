@@ -3,6 +3,7 @@
   "displayname": "Sonnenangel",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 10027,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Kopf der Medusa",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 895,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

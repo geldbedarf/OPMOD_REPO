@@ -3,6 +3,7 @@
   "displayname": "Trichter Limit",
   "material": "HOPPER",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Erhöhe dein Trichter Limit um 5",

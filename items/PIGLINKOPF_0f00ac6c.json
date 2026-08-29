@@ -3,6 +3,7 @@
   "displayname": "Piglinkopf",
   "material": "PIGLIN_HEAD",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

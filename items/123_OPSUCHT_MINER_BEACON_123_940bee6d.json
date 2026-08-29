@@ -3,6 +3,7 @@
   "displayname": "123 OPSUCHT Miner Beacon 123",
   "material": "BEACON",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

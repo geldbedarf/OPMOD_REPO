@@ -3,6 +3,7 @@
   "displayname": "GOLDEN BLACK Schaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 5509,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

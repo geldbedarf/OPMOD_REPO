@@ -3,6 +3,7 @@
   "displayname": "Obsidianschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10128,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

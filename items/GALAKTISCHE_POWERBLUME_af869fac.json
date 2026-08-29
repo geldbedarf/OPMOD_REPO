@@ -3,6 +3,7 @@
   "displayname": "Galaktische Powerblume",
   "material": "BLUE_ORCHID",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "f NICHT ESSEN",

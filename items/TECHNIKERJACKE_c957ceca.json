@@ -3,6 +3,7 @@
   "displayname": "Technikerjacke",
   "material": "IRON_CHESTPLATE",
   "cmd": 5529,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

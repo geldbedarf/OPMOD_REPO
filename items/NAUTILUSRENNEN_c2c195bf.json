@@ -3,6 +3,7 @@
   "displayname": "Nautilusrennen",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3120,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

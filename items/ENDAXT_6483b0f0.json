@@ -3,6 +3,7 @@
   "displayname": "Endaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10144,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

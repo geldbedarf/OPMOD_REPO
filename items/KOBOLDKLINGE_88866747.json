@@ -3,6 +3,7 @@
   "displayname": "Koboldklinge",
   "material": "NETHERITE_SWORD",
   "cmd": 10107,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

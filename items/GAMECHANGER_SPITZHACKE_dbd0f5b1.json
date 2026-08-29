@@ -3,6 +3,7 @@
   "displayname": "Gamechanger Spitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 9021,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Black Helm V2",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10154,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

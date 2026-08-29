@@ -3,6 +3,7 @@
   "displayname": "BDAY Schaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10128,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Pinker Ballon",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 20060,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

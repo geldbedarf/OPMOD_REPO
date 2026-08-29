@@ -3,6 +3,7 @@
   "displayname": "Drachenritterharnisch",
   "material": "IRON_CHESTPLATE",
   "cmd": 5524,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

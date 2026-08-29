@@ -3,6 +3,7 @@
   "displayname": "Dev Bogen",
   "material": "BOW",
   "cmd": 10101,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Impulsschuhe",
   "material": "IRON_BOOTS",
   "cmd": 5528,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

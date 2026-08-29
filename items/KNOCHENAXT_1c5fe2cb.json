@@ -3,6 +3,7 @@
   "displayname": "Knochenaxt",
   "material": "NETHERITE_AXE",
   "cmd": 5513,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

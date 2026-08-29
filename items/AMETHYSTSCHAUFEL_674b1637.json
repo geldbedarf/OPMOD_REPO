@@ -3,6 +3,7 @@
   "displayname": "Amethystschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10114,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

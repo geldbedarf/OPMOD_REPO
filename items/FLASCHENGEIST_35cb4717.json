@@ -3,6 +3,7 @@
   "displayname": "Flaschengeist",
   "material": "POTION",
   "cmd": 0,
+  "category": "TRAENKE",
   "damage": 0,
   "lore": [
     "",

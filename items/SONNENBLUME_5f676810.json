@@ -3,6 +3,7 @@
   "displayname": "Sonnenblume",
   "material": "SUNFLOWER",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

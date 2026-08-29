@@ -3,6 +3,7 @@
   "displayname": "Zombotoms ewiger Begleiter",
   "material": "PLAYER_HEAD",
   "cmd": 0,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "Signiert von Zombotom_ am 05.06.2021",

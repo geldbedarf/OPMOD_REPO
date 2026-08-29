@@ -3,6 +3,7 @@
   "displayname": "Shulker-Schale",
   "material": "SHULKER_SHELL",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Amors Brustplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 10145,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "0 Santas Tannenfäller 0",
   "material": "DIAMOND_AXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

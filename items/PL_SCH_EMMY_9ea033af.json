@@ -3,6 +3,7 @@
   "displayname": "Plüsch Emmy",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 15501,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

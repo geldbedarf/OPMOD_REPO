@@ -3,6 +3,7 @@
   "displayname": "Pilzaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10137,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

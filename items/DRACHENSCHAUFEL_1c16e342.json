@@ -3,6 +3,7 @@
   "displayname": "Drachenschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10102,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

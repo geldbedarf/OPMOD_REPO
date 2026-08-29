@@ -3,6 +3,7 @@
   "displayname": "Nils Spitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10115,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

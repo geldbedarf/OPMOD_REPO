@@ -3,6 +3,7 @@
   "displayname": "Glück Spitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10901,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

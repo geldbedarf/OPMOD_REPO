@@ -3,6 +3,7 @@
   "displayname": "Schmelzpicke V4",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10172,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

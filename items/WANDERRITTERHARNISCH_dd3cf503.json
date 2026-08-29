@@ -3,6 +3,7 @@
   "displayname": "Wanderritterharnisch",
   "material": "IRON_CHESTPLATE",
   "cmd": 5518,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

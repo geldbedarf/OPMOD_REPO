@@ -3,6 +3,7 @@
   "displayname": "🍂 Frühlingsjacke 🍂",
   "material": "IRON_CHESTPLATE",
   "cmd": 10141,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Die Frühlingsjacke lässt die Natur in lebendigen",

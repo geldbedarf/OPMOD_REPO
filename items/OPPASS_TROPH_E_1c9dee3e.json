@@ -3,6 +3,7 @@
   "displayname": "OPPass Trophäe",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6277,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

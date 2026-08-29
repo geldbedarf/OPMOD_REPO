@@ -3,6 +3,7 @@
   "displayname": "1Oneclick Schaufel1",
   "material": "IRON_SHOVEL",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "____________________________",

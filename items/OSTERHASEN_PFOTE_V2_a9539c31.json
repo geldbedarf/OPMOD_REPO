@@ -3,6 +3,7 @@
   "displayname": "Osterhasen Pfote V2",
   "material": "RABBIT_FOOT",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

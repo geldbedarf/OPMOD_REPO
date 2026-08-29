@@ -3,6 +3,7 @@
   "displayname": "✳ Sommersense ✳",
   "material": "NETHERITE_HOE",
   "cmd": 10122,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

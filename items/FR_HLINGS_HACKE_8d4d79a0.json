@@ -3,6 +3,7 @@
   "displayname": "FRÜHLINGS HACKE",
   "material": "GOLDEN_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

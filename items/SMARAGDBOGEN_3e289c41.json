@@ -3,6 +3,7 @@
   "displayname": "Smaragdbogen",
   "material": "BOW",
   "cmd": 10113,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "OPSUCHT VIP Ticket ",
   "material": "CREEPER_BANNER_PATTERN",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

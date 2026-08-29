@@ -3,6 +3,7 @@
   "displayname": "Wasserpistole",
   "material": "NETHERITE_SWORD",
   "cmd": 10162,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

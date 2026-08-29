@@ -3,6 +3,7 @@
   "displayname": "JonCarrs Jacke",
   "material": "IRON_CHESTPLATE",
   "cmd": 10135,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

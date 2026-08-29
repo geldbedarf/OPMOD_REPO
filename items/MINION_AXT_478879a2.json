@@ -3,6 +3,7 @@
   "displayname": "Minion-Axt",
   "material": "DIAMOND_AXE",
   "cmd": 10201,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

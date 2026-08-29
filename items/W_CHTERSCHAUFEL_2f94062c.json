@@ -3,6 +3,7 @@
   "displayname": "Wächterschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 5537,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

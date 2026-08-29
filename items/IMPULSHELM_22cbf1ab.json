@@ -3,6 +3,7 @@
   "displayname": "Impulshelm",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 5528,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

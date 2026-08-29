@@ -3,6 +3,7 @@
   "displayname": ". Devins Flockenpicke v2 .",
   "material": "NETHERITE_PICKAXE",
   "cmd": 1004,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "kibri09\u0027s Taucherhelm",
   "material": "CHAINMAIL_HELMET",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

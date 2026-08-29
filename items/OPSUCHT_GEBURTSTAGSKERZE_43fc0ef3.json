@@ -3,6 +3,7 @@
   "displayname": "OPSUCHT Geburtstagskerze",
   "material": "LIGHT_BLUE_CANDLE",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

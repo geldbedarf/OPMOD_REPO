@@ -3,6 +3,7 @@
   "displayname": "Finstere Klinge",
   "material": "NETHERITE_SWORD",
   "cmd": 10154,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

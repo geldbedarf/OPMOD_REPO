@@ -3,6 +3,7 @@
   "displayname": "Latro\u0027s Wegweiser",
   "material": "COMPASS",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Signiert von Latro7002 am 06.10.2020",

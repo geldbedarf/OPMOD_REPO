@@ -3,6 +3,7 @@
   "displayname": "x Killer Kostüm (2/4) x",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Haltbarkeit XX",

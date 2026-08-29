@@ -3,6 +3,7 @@
   "displayname": "Schattenangel",
   "material": "FISHING_ROD",
   "cmd": 10303,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

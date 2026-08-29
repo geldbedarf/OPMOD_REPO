@@ -3,6 +3,7 @@
   "displayname": "Geburtstags Brustplatte",
   "material": "DIAMOND_CHESTPLATE",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert von Phorx am 23.10.2020",

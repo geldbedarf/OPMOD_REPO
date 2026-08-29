@@ -3,6 +3,7 @@
   "displayname": "Vergrößerungs-Wurfscheibe",
   "material": "MUSIC_DISC_WAIT",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

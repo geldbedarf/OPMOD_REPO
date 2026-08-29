@@ -3,6 +3,7 @@
   "displayname": "iii OP Axt iii",
   "material": "NETHERITE_AXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

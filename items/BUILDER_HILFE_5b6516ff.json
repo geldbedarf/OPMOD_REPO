@@ -3,6 +3,7 @@
   "displayname": "Builder Hilfe",
   "material": "OAK_SIGN",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Mit diesem Item wird dir",

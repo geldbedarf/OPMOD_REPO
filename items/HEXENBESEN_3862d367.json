@@ -3,6 +3,7 @@
   "displayname": "Hexenbesen",
   "material": "BRUSH",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

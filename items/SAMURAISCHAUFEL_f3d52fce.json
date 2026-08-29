@@ -3,6 +3,7 @@
   "displayname": "Samuraischaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10104,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

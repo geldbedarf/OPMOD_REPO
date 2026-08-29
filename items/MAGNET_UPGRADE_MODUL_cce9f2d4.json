@@ -3,6 +3,7 @@
   "displayname": "Magnet Upgrade Modul",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 842,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

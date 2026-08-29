@@ -3,6 +3,7 @@
   "displayname": "Endbrustplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 10144,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

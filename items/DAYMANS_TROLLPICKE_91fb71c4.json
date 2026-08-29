@@ -3,6 +3,7 @@
   "displayname": "Daymans Trollpicke",
   "material": "WOODEN_PICKAXE",
   "cmd": 1,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Dino Nuggets X",

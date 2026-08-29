@@ -3,6 +3,7 @@
   "displayname": "Eisener Ruf der Karawane",
   "material": "GOAT_HORN",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

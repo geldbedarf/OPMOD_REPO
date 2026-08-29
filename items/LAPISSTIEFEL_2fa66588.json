@@ -3,6 +3,7 @@
   "displayname": "Lapisstiefel",
   "material": "IRON_BOOTS",
   "cmd": 10112,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Durability: 65 / 65",

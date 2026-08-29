@@ -3,6 +3,7 @@
   "displayname": "Schattenpicke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10121,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

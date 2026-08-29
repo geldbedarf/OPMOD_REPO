@@ -3,6 +3,7 @@
   "displayname": "Redstoneschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10115,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

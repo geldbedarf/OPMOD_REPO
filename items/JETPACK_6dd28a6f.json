@@ -3,6 +3,7 @@
   "displayname": "Jetpack",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10444,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

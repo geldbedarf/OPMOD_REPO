@@ -3,6 +3,7 @@
   "displayname": "Floß der Handelskarawane",
   "material": "BAMBOO_RAFT",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

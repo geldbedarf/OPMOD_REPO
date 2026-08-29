@@ -3,6 +3,7 @@
   "displayname": "Bohrer V3",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10166,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

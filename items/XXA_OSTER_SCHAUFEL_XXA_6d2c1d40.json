@@ -3,6 +3,7 @@
   "displayname": "xxa OSTER SCHAUFEL xxa",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10101,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "OP CABRIO",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10424,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

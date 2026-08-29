@@ -3,6 +3,7 @@
   "displayname": "Skylanys Vermächtnis",
   "material": "OAK_BUTTON",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von Skylany am 05.06.2021",

@@ -3,6 +3,7 @@
   "displayname": "Sternen Ei",
   "material": "VEX_SPAWN_EGG",
   "cmd": 0,
+  "category": "SPAWNER",
   "damage": 0,
   "lore": [
     "Signiert von Phorx am 28.08.2020",

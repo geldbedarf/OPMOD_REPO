@@ -3,6 +3,7 @@
   "displayname": "Weihnachtsgans",
   "material": "COOKED_RABBIT",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "BDAY Bogen",
   "material": "BOW",
   "cmd": 10123,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

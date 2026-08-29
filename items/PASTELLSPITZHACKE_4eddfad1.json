@@ -3,6 +3,7 @@
   "displayname": "Pastellspitzhacke",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 13002,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

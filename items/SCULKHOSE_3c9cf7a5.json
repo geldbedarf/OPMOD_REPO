@@ -3,6 +3,7 @@
   "displayname": "Sculkhose",
   "material": "IRON_LEGGINGS",
   "cmd": 10014,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

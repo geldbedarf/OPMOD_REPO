@@ -3,6 +3,7 @@
   "displayname": "Phorx\u0027s Infinity Schaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 1001,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

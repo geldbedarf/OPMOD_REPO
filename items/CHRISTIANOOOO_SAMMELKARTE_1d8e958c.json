@@ -3,6 +3,7 @@
   "displayname": "Christianoooo Sammelkarte",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3019,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

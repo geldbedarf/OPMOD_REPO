@@ -3,6 +3,7 @@
   "displayname": "Tote Korallenaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10012,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

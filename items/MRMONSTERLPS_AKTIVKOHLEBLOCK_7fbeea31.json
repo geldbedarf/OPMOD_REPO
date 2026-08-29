@@ -3,6 +3,7 @@
   "displayname": "MrMonsterLPs Aktivkohleblock",
   "material": "COAL_BLOCK",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Signiert von MrMonsterLP am 06.02.2021",

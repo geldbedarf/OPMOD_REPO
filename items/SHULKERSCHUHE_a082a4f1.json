@@ -3,6 +3,7 @@
   "displayname": "Shulkerschuhe",
   "material": "IRON_BOOTS",
   "cmd": 5523,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

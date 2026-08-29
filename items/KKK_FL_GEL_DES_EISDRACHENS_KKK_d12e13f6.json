@@ -3,6 +3,7 @@
   "displayname": "kkk Flügel des Eisdrachens kkk",
   "material": "ELYTRA",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

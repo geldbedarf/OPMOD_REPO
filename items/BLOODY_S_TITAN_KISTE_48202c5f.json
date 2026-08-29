@@ -3,6 +3,7 @@
   "displayname": "Bloody´s Titan Kiste",
   "material": "TRAPPED_CHEST",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von Blood_Brother am 06.02.2021",

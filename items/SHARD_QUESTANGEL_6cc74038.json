@@ -3,6 +3,7 @@
   "displayname": "Shard Questangel",
   "material": "FISHING_ROD",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [],
 "shard_price": 3000,

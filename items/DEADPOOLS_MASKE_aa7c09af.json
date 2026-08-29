@@ -3,6 +3,7 @@
   "displayname": "Deadpools Maske",
   "material": "IRON_HELMET",
   "cmd": 10217,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

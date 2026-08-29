@@ -3,6 +3,7 @@
   "displayname": "Phase II Brustplatte",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 10120,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Klonrüstung der repu-",

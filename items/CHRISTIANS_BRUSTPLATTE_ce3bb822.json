@@ -3,6 +3,7 @@
   "displayname": "Christians Brustplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 5500,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

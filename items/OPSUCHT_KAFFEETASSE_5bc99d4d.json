@@ -3,6 +3,7 @@
   "displayname": "OPSUCHT Kaffeetasse",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6200,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "",

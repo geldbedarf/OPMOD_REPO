@@ -3,6 +3,7 @@
   "displayname": "Infinity Drachenklinge",
   "material": "NETHERITE_SWORD",
   "cmd": 10103,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

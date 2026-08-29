@@ -3,6 +3,7 @@
   "displayname": "BlockBusterGeburtstags Kuchen ",
   "material": "CAKE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Signiert von leDevin am 11.06.2020"

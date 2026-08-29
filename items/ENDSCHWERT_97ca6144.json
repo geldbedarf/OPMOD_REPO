@@ -3,6 +3,7 @@
   "displayname": "Endschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10149,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

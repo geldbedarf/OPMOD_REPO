@@ -3,6 +3,7 @@
   "displayname": "Kupferschuhe",
   "material": "IRON_BOOTS",
   "cmd": 10129,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Kupferkollektion (9/13)",

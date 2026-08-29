@@ -3,6 +3,7 @@
   "displayname": "Lapishose",
   "material": "IRON_LEGGINGS",
   "cmd": 10112,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Durability: 75 / 75",

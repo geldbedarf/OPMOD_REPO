@@ -3,6 +3,7 @@
   "displayname": "Knochenspalter",
   "material": "NETHERITE_AXE",
   "cmd": 10151,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

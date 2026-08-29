@@ -3,6 +3,7 @@
   "displayname": "Geschenk zum Muttertag",
   "material": "PLAYER_HEAD",
   "cmd": 0,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

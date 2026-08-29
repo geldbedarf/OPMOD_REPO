@@ -3,6 +3,7 @@
   "displayname": "Obsidianhose",
   "material": "LEATHER_LEGGINGS",
   "cmd": 10123,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

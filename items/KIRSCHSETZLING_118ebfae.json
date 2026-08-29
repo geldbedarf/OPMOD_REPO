@@ -3,6 +3,7 @@
   "displayname": "Kirschsetzling",
   "material": "CHERRY_SAPLING",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

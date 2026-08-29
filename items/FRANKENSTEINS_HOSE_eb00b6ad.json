@@ -3,6 +3,7 @@
   "displayname": "Frankensteins Hose",
   "material": "IRON_LEGGINGS",
   "cmd": 10130,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

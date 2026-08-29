@@ -3,6 +3,7 @@
   "displayname": "Erdbeeren Picke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 11001,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

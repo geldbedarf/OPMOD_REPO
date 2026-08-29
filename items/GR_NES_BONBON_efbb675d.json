@@ -3,6 +3,7 @@
   "displayname": "Grünes Bonbon",
   "material": "SWEET_BERRIES",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

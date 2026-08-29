@@ -3,6 +3,7 @@
   "displayname": "Kupfersense",
   "material": "NETHERITE_HOE",
   "cmd": 10123,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

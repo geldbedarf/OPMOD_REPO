@@ -3,6 +3,7 @@
   "displayname": "Builder-Team",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3001,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "BDAY Schild",
   "material": "SHIELD",
   "cmd": 10119,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

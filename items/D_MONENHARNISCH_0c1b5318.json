@@ -3,6 +3,7 @@
   "displayname": "Dämonenharnisch",
   "material": "IRON_CHESTPLATE",
   "cmd": 10136,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

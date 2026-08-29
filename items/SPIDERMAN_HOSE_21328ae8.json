@@ -3,6 +3,7 @@
   "displayname": "Spiderman Hose",
   "material": "IRON_LEGGINGS",
   "cmd": 10111,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

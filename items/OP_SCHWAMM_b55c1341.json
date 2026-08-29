@@ -3,6 +3,7 @@
   "displayname": "OP Schwamm",
   "material": "SPONGE",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

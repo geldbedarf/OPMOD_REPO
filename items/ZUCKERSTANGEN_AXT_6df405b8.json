@@ -3,6 +3,7 @@
   "displayname": "Zuckerstangen Axt",
   "material": "NETHERITE_AXE",
   "cmd": 10114,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

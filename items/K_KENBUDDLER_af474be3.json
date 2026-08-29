@@ -3,6 +3,7 @@
   "displayname": "Kükenbuddler",
   "material": "NETHERITE_SHOVEL",
   "cmd": 5526,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

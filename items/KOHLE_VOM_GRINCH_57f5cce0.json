@@ -3,6 +3,7 @@
   "displayname": "Kohle vom Grinch",
   "material": "COAL",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

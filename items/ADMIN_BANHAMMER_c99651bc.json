@@ -3,6 +3,7 @@
   "displayname": "ADMIN Banhammer",
   "material": "MACE",
   "cmd": 10000,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

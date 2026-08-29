@@ -3,6 +3,7 @@
   "displayname": "Kleiner Beschützer Phil",
   "material": "TOTEM_OF_UNDYING",
   "cmd": 501,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

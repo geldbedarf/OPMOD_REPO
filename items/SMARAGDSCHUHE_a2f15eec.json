@@ -3,6 +3,7 @@
   "displayname": "Smaragdschuhe",
   "material": "IRON_BOOTS",
   "cmd": 10113,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Elfenharnisch",
   "material": "IRON_CHESTPLATE",
   "cmd": 5511,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

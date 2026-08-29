@@ -3,6 +3,7 @@
   "displayname": "x Santa\u0027s Teamlermütze x",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 2007,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

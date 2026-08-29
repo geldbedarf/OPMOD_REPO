@@ -3,6 +3,7 @@
   "displayname": "Elasinos Wurzelbrecher",
   "material": "NETHERITE_AXE",
   "cmd": 10009,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

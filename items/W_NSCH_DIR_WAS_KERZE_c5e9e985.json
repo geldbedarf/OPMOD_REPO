@@ -3,6 +3,7 @@
   "displayname": "Wünsch-Dir-Was-Kerze",
   "material": "RED_CANDLE",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

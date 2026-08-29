@@ -3,6 +3,7 @@
   "displayname": "Santas Stiefel",
   "material": "LEATHER_BOOTS",
   "cmd": 10109,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Kupferbogen",
   "material": "BOW",
   "cmd": 10120,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

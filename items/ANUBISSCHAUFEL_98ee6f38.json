@@ -3,6 +3,7 @@
   "displayname": "Anubisschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10140,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

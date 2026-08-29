@@ -3,6 +3,7 @@
   "displayname": "Königliche Hose",
   "material": "GOLDEN_LEGGINGS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Haltbarkeit 30",

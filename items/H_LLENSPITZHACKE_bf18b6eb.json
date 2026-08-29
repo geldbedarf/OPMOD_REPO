@@ -3,6 +3,7 @@
   "displayname": "Höllenspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 6002,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

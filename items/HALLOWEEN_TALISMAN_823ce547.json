@@ -3,6 +3,7 @@
   "displayname": "Halloween Talisman",
   "material": "PITCHER_POD",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

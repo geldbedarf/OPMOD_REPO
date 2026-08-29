@@ -3,6 +3,7 @@
   "displayname": "Ballon der Liebe",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10270,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

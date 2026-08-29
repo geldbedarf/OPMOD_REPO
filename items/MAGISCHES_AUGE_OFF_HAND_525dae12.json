@@ -3,6 +3,7 @@
   "displayname": "MAGISCHES AUGE (Off-Hand)",
   "material": "SPIDER_EYE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

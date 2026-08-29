@@ -3,6 +3,7 @@
   "displayname": "Mounts of Mayhem Boosterpack",
   "material": "PAPER",
   "cmd": 3100,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

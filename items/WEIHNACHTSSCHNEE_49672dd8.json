@@ -3,6 +3,7 @@
   "displayname": "Weihnachtsschnee",
   "material": "SNOW_BLOCK",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von CabCabana am 03.12.2021"

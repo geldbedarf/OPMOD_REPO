@@ -3,6 +3,7 @@
   "displayname": "Bunsenbrenner",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10426,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

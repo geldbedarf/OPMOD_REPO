@@ -3,6 +3,7 @@
   "displayname": "BDAY Armbrust",
   "material": "CROSSBOW",
   "cmd": 10014,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

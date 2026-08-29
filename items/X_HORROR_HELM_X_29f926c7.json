@@ -3,6 +3,7 @@
   "displayname": "x Horror Helm x",
   "material": "CARVED_PUMPKIN",
   "cmd": 1001,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Großes Samuraischwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10105,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

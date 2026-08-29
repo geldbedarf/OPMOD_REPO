@@ -3,6 +3,7 @@
   "displayname": "BDAY Hacke",
   "material": "NETHERITE_HOE",
   "cmd": 10127,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

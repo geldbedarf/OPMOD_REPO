@@ -3,6 +3,7 @@
   "displayname": "Valentinshelm",
   "material": "PAPER",
   "cmd": 10009,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

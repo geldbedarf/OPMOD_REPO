@@ -3,6 +3,7 @@
   "displayname": "x Phil´s Jacke x",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 10102,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

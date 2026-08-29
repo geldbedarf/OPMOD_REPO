@@ -3,6 +3,7 @@
   "displayname": "Seelenfresser Axt",
   "material": "NETHERITE_AXE",
   "cmd": 10152,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

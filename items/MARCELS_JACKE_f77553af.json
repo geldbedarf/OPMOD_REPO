@@ -3,6 +3,7 @@
   "displayname": "Marcels Jacke",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 10118,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

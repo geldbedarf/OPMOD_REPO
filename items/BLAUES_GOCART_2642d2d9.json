@@ -3,6 +3,7 @@
   "displayname": "Blaues GoCart",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10113,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Lokis Zepter",
   "material": "NETHERITE_SWORD",
   "cmd": 10133,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

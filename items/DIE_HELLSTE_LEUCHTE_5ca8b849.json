@@ -3,6 +3,7 @@
   "displayname": "Die hellste Leuchte",
   "material": "REDSTONE_TORCH",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

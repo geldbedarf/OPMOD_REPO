@@ -3,6 +3,7 @@
   "displayname": "Rostfuchs Maske",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10616,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

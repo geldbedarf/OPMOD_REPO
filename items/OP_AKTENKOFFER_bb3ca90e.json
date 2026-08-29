@@ -3,6 +3,7 @@
   "displayname": "OP Aktenkoffer",
   "material": "TOTEM_OF_UNDYING",
   "cmd": 503,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Netheritbarren",
   "material": "NETHERITE_INGOT",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

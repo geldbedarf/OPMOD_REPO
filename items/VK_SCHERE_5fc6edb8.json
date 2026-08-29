@@ -3,6 +3,7 @@
   "displayname": "VK ★ Schere",
   "material": "SHEARS",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

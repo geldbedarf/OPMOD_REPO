@@ -3,6 +3,7 @@
   "displayname": "Wünsche-Erfüllen Ticket",
   "material": "NAME_TAG",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Garantierte",

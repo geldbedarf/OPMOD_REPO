@@ -3,6 +3,7 @@
   "displayname": "Gaming PC",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10528,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

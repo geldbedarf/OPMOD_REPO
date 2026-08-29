@@ -3,6 +3,7 @@
   "displayname": "Kyberkristall",
   "material": "ECHO_SHARD",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

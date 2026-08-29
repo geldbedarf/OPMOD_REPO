@@ -3,6 +3,7 @@
   "displayname": "11☢ Devins Feuerkopf ☢11",
   "material": "PLAYER_HEAD",
   "cmd": 0,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

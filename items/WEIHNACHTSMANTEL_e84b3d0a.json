@@ -3,6 +3,7 @@
   "displayname": "Weihnachtsmantel",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 01.12.2021",

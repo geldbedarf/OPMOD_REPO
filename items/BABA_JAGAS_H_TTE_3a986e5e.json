@@ -3,6 +3,7 @@
   "displayname": "Baba Jagas Hütte",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 812,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "Mit diesem NPC kannst du dein",

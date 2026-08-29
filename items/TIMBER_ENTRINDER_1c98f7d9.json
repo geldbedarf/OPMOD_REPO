@@ -3,6 +3,7 @@
   "displayname": "Timber Entrinder",
   "material": "NETHERITE_AXE",
   "cmd": 10139,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

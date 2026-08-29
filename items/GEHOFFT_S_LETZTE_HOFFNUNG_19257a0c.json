@@ -3,6 +3,7 @@
   "displayname": "gehofft´s letzte Hoffnung",
   "material": "DEAD_BUSH",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von gehofft am 03.09.2021",

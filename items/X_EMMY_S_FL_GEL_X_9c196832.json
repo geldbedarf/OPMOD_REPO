@@ -3,6 +3,7 @@
   "displayname": "x Emmy´s Flügel x",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 13000,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

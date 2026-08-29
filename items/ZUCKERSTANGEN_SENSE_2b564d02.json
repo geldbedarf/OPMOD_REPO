@@ -3,6 +3,7 @@
   "displayname": "Zuckerstangen Sense",
   "material": "NETHERITE_HOE",
   "cmd": 10107,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

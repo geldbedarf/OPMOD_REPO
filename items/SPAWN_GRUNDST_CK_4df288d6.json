@@ -3,6 +3,7 @@
   "displayname": "Spawn Grundstück",
   "material": "PAPER",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "Glückwunsch du hast ein",

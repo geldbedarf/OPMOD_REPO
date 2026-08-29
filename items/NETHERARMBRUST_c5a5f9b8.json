@@ -3,6 +3,7 @@
   "displayname": "Netherarmbrust",
   "material": "CROSSBOW",
   "cmd": 10017,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

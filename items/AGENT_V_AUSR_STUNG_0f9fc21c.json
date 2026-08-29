@@ -3,6 +3,7 @@
   "displayname": "Agent V Ausrüstung",
   "material": "LEATHER_HELMET",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "R2-D2",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10365,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Kupfergolem",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3119,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

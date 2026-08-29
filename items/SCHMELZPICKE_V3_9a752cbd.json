@@ -3,6 +3,7 @@
   "displayname": "Schmelzpicke v3",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10501,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Schmelzofen II",

@@ -3,6 +3,7 @@
   "displayname": "Neujahrsblume",
   "material": "RED_TULIP",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

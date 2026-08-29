@@ -3,6 +3,7 @@
   "displayname": "SANTAS Schneepulli (+5 Herzen)",
   "material": "GOLDEN_CHESTPLATE",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

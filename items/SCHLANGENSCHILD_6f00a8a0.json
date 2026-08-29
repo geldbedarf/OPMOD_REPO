@@ -3,6 +3,7 @@
   "displayname": "Schlangenschild",
   "material": "SHIELD",
   "cmd": 10120,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Kupferaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10129,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

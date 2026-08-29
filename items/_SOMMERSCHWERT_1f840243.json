@@ -3,6 +3,7 @@
   "displayname": "✳ Sommerschwert ✳",
   "material": "NETHERITE_SWORD",
   "cmd": 10129,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

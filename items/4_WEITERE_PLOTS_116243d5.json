@@ -3,6 +3,7 @@
   "displayname": "4 weitere Plots",
   "material": "GRASS_BLOCK",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Glückwunsch, du bekommst",

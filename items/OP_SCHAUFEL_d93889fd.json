@@ -3,6 +3,7 @@
   "displayname": "OP Schaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10201,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

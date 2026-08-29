@@ -3,6 +3,7 @@
   "displayname": "Reliquien des Skelettkriegers",
   "material": "BONE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

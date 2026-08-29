@@ -3,6 +3,7 @@
   "displayname": "Weihnachtliches Schwert",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 10016,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

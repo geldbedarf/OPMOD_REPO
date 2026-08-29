@@ -3,6 +3,7 @@
   "displayname": "+120% Speed Upgrade Modul",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 818,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

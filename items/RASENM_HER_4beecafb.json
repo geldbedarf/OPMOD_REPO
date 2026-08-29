@@ -3,6 +3,7 @@
   "displayname": "Rasenmäher",
   "material": "NETHERITE_HOE",
   "cmd": 10130,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

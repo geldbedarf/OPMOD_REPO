@@ -3,6 +3,7 @@
   "displayname": "Diamanten Staub",
   "material": "LIGHT_BLUE_DYE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Signiert von Phorx am 28.08.2020",

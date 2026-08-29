@@ -3,6 +3,7 @@
   "displayname": "Reparaturtalisman",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 884,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

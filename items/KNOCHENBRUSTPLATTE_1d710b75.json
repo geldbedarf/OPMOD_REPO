@@ -3,6 +3,7 @@
   "displayname": "Knochenbrustplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 5513,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

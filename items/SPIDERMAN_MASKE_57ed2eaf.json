@@ -3,6 +3,7 @@
   "displayname": "Spiderman Maske",
   "material": "IRON_HELMET",
   "cmd": 10206,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

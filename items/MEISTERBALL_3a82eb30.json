@@ -3,6 +3,7 @@
   "displayname": "Meisterball",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10497,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

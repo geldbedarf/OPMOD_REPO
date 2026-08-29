@@ -3,6 +3,7 @@
   "displayname": "Osterbrustplatte (+5 Herzen)",
   "material": "IRON_CHESTPLATE",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

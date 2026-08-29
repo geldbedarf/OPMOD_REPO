@@ -3,6 +3,7 @@
   "displayname": "ThisMain\u0027s Bombe",
   "material": "FIREWORK_ROCKET",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Signiert von ThisMain am 25.02.2022",

@@ -3,6 +3,7 @@
   "displayname": "JonCarrs Helm",
   "material": "IRON_HELMET",
   "cmd": 10224,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

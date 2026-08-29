@@ -3,6 +3,7 @@
   "displayname": "Anakins Jedi-Starfighter",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10905,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Hephaistos Schmiedehammer",
   "material": "MACE",
   "cmd": 10001,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "AJapvin\u0027s BaguetteL",
   "material": "BREAD",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Köstlich X",

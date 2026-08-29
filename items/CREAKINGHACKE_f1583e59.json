@@ -3,6 +3,7 @@
   "displayname": "Creakinghacke",
   "material": "NETHERITE_HOE",
   "cmd": 5527,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Propellerhut",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10411,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

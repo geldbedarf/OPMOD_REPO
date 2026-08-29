@@ -3,6 +3,7 @@
   "displayname": "OPPhils B-Day Muffin",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6214,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "",

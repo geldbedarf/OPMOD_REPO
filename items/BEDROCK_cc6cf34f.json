@@ -3,6 +3,7 @@
   "displayname": "Bedrock",
   "material": "BEDROCK",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

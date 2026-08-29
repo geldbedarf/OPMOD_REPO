@@ -3,6 +3,7 @@
   "displayname": "Kürbissuppe",
   "material": "MUSHROOM_STEW",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "",

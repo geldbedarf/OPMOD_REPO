@@ -3,6 +3,7 @@
   "displayname": "Dämonenhacke",
   "material": "NETHERITE_HOE",
   "cmd": 10128,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

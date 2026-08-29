@@ -3,6 +3,7 @@
   "displayname": "Valentinsschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10115,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

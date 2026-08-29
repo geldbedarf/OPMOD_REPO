@@ -3,6 +3,7 @@
   "displayname": "Devins STERNEN Segler",
   "material": "ELYTRA",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert von leDevin am 28.08.2020",

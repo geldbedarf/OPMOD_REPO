@@ -3,6 +3,7 @@
   "displayname": "Osterhasen Bogen",
   "material": "BOW",
   "cmd": 10117,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

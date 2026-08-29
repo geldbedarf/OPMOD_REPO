@@ -3,6 +3,7 @@
   "displayname": "Hacke vom Kobold",
   "material": "NETHERITE_HOE",
   "cmd": 10104,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

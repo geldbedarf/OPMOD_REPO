@@ -3,6 +3,7 @@
   "displayname": "Lebkuchen Marcel",
   "material": "TOTEM_OF_UNDYING",
   "cmd": 6258,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

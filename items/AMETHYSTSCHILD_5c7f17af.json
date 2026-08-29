@@ -3,6 +3,7 @@
   "displayname": "Amethystschild",
   "material": "SHIELD",
   "cmd": 10108,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

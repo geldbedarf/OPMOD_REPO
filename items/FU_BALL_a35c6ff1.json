@@ -3,6 +3,7 @@
   "displayname": "Fußball",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10418,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

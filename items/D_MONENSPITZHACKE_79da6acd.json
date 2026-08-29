@@ -3,6 +3,7 @@
   "displayname": "Dämonenspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10158,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

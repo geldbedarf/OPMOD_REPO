@@ -3,6 +3,7 @@
   "displayname": "Quarzhose",
   "material": "IRON_LEGGINGS",
   "cmd": 10131,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Quarzkollektion (8/13)",

@@ -3,6 +3,7 @@
   "displayname": "Wächterangel",
   "material": "FISHING_ROD",
   "cmd": 5537,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

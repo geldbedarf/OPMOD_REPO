@@ -3,6 +3,7 @@
   "displayname": "Unendlicher Wassereimer",
   "material": "WATER_BUCKET",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "xx DER BUG xx",
   "material": "OAK_PLANKS",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

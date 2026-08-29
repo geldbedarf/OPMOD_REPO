@@ -3,6 +3,7 @@
   "displayname": "Piñataschläger",
   "material": "NETHERITE_SWORD",
   "cmd": 10141,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

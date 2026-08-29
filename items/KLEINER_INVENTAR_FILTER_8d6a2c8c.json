@@ -3,6 +3,7 @@
   "displayname": "Kleiner Inventar Filter",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 843,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

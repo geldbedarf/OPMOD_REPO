@@ -3,6 +3,7 @@
   "displayname": "Pastellklinge",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 13004,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

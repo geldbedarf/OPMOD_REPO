@@ -3,6 +3,7 @@
   "displayname": "GEBURTSTAG\u0027s Beacon",
   "material": "BEACON",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

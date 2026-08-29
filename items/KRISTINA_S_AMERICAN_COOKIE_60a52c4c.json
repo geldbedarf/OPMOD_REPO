@@ -3,6 +3,7 @@
   "displayname": "Kristina´s American Cookie",
   "material": "COOKIE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Signiert von Kristinnaaa am 06.02.2021",

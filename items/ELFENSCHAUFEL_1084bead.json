@@ -3,6 +3,7 @@
   "displayname": "Elfenschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 5511,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

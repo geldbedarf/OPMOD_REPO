@@ -3,6 +3,7 @@
   "displayname": "PARTY-Timber",
   "material": "NETHERITE_AXE",
   "cmd": 10000,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Emmy\u0027s Einhorn",
   "material": "END_ROD",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

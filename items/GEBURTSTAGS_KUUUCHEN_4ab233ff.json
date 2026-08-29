@@ -3,6 +3,7 @@
   "displayname": "Geburtstags KUUUCHEN",
   "material": "CAKE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Signiert von Phorx am 23.10.2020",

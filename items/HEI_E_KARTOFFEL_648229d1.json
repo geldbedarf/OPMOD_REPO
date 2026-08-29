@@ -3,6 +3,7 @@
   "displayname": "Heiße Kartoffel",
   "material": "BAKED_POTATO",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Redstoneschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10119,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

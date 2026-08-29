@@ -3,6 +3,7 @@
   "displayname": "Glowstonespitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 9017,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

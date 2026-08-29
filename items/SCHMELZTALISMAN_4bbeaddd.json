@@ -3,6 +3,7 @@
   "displayname": "Schmelztalisman",
   "material": "TOTEM_OF_UNDYING",
   "cmd": 10003,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

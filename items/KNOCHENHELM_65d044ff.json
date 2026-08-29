@@ -3,6 +3,7 @@
   "displayname": "Knochenhelm",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 5513,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

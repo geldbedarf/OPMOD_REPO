@@ -3,6 +3,7 @@
   "displayname": "Karottenspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10175,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Jigsaw Block",
   "material": "JIGSAW",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

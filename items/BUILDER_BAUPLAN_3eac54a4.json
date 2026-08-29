@@ -3,6 +3,7 @@
   "displayname": "Builder-Bauplan",
   "material": "MAP",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "Hier stehen alle Projekte der Builder",

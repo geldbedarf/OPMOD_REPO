@@ -3,6 +3,7 @@
   "displayname": "Funkenflug",
   "material": "FLINT_AND_STEEL",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

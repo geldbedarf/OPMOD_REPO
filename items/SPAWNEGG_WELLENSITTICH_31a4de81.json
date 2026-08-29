@@ -3,6 +3,7 @@
   "displayname": "Spawnegg | Wellensittich",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 805,
+  "category": "SPAWNER",
   "damage": 0,
   "lore": [
     "5x Wellensittich",

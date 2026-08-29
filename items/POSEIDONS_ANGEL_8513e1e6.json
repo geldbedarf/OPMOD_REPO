@@ -3,6 +3,7 @@
   "displayname": "Poseidons Angel",
   "material": "FISHING_ROD",
   "cmd": 10000,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

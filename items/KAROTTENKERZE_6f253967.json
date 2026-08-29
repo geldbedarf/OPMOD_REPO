@@ -3,6 +3,7 @@
   "displayname": "Karottenkerze",
   "material": "ORANGE_CANDLE",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

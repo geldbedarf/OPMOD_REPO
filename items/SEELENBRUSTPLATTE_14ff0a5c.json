@@ -3,6 +3,7 @@
   "displayname": "Seelenbrustplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 5507,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

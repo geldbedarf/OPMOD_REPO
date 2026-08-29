@@ -3,6 +3,7 @@
   "displayname": "Engelshelm",
   "material": "LEATHER_HELMET",
   "cmd": 10301,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

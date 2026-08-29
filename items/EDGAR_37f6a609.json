@@ -3,6 +3,7 @@
   "displayname": "Edgar",
   "material": "PIG_SPAWN_EGG",
   "cmd": 0,
+  "category": "SPAWNER",
   "damage": 0,
   "lore": [
     "",

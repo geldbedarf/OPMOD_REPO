@@ -3,6 +3,7 @@
   "displayname": "Minenschacht",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3070,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

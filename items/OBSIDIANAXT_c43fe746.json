@@ -3,6 +3,7 @@
   "displayname": "Obsidianaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10124,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

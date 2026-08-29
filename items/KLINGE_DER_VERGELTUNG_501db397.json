@@ -3,6 +3,7 @@
   "displayname": "Klinge der Vergeltung",
   "material": "NETHERITE_SWORD",
   "cmd": 11001,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

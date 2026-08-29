@@ -3,6 +3,7 @@
   "displayname": "AwesomeAlexa´s Glücksnugget",
   "material": "GOLD_NUGGET",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Signiert von AwesomeAlexa5 am 03.09.2021",

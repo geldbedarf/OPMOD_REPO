@@ -3,6 +3,7 @@
   "displayname": "x● Devins Brustplatte v3 ●x",
   "material": "DIAMOND_CHESTPLATE",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

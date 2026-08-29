@@ -3,6 +3,7 @@
   "displayname": "Hexenhose",
   "material": "IRON_LEGGINGS",
   "cmd": 10013,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

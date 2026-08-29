@@ -3,6 +3,7 @@
   "displayname": "Kiesschaufler",
   "material": "DIAMOND_SHOVEL",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 05.06.2021",

@@ -3,6 +3,7 @@
   "displayname": "Wampa",
   "material": "POLAR_BEAR_SPAWN_EGG",
   "cmd": 0,
+  "category": "SPAWNER",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "BDAY Schwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10142,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

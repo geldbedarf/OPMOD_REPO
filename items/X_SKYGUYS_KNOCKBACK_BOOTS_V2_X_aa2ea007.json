@@ -3,6 +3,7 @@
   "displayname": "x  SKYGUYS KNOCKBACK BOOTS v2 x",
   "material": "GOLDEN_BOOTS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

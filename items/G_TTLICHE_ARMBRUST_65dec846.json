@@ -3,6 +3,7 @@
   "displayname": "Göttliche Armbrust",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 10006,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

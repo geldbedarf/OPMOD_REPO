@@ -3,6 +3,7 @@
   "displayname": "2. Adventskerze",
   "material": "RED_CANDLE",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

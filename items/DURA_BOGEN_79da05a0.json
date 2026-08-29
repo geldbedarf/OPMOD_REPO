@@ -3,6 +3,7 @@
   "displayname": "Dura Bogen",
   "material": "BOW",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 03.09.2021",

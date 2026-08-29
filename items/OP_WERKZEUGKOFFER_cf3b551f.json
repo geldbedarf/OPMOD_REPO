@@ -3,6 +3,7 @@
   "displayname": "OP Werkzeugkoffer",
   "material": "PAPER",
   "cmd": 6378,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

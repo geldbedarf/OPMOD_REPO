@@ -3,6 +3,7 @@
   "displayname": "Iron Man Helm",
   "material": "IRON_HELMET",
   "cmd": 10216,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

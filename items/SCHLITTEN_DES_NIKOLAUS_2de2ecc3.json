@@ -3,6 +3,7 @@
   "displayname": "Schlitten des Nikolaus",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6267,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Drache des Herzens",
   "material": "DRAGON_HEAD",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

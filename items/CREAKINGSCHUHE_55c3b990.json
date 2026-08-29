@@ -3,6 +3,7 @@
   "displayname": "Creakingschuhe",
   "material": "IRON_BOOTS",
   "cmd": 5527,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

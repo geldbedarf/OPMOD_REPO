@@ -3,6 +3,7 @@
   "displayname": "x Phil´s Hose x",
   "material": "LEATHER_LEGGINGS",
   "cmd": 10102,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "H Infinity Spitzhacke H",
   "material": "DIAMOND_PICKAXE",
   "cmd": 1003,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

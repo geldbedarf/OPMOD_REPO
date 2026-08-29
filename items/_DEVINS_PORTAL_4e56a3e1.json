@@ -3,6 +3,7 @@
   "displayname": "✰ Devins Portal ✰ ",
   "material": "END_PORTAL_FRAME",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "✘ Speed 6 Trank ✘",
   "material": "POTION",
   "cmd": 0,
+  "category": "TRAENKE",
   "damage": 0,
   "lore": [
     "",

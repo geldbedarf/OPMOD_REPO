@@ -3,6 +3,7 @@
   "displayname": "Seltenes Seerosenblatt",
   "material": "LILY_PAD",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

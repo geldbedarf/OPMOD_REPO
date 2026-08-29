@@ -3,6 +3,7 @@
   "displayname": "Dämonenstiefel",
   "material": "LEATHER_BOOTS",
   "cmd": 10136,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

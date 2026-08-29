@@ -3,6 +3,7 @@
   "displayname": "MGC B-Day Helm",
   "material": "DIAMOND_HELMET",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert von SkyGuyTV am 19.11.2021",

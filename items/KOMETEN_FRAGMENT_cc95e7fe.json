@@ -3,6 +3,7 @@
   "displayname": "Kometen Fragment",
   "material": "DRAGON_EGG",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von Phorx am 28.08.2020",

@@ -3,6 +3,7 @@
   "displayname": "Anubisaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10149,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

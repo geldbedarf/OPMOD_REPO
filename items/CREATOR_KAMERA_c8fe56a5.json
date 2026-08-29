@@ -3,6 +3,7 @@
   "displayname": "Creator Kamera",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6204,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

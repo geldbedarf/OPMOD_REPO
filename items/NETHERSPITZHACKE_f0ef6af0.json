@@ -3,6 +3,7 @@
   "displayname": "Netherspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10178,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

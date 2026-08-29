@@ -3,6 +3,7 @@
   "displayname": "Cabana\u0027s Stern-Kristall",
   "material": "END_CRYSTAL",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Signiert von CabCabana am 23.09.2020",

@@ -3,6 +3,7 @@
   "displayname": "a Phil´s Schaufel v1 a",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10501,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Diese Schaufel behütet dich.",

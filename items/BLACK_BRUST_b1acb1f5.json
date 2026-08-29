@@ -3,6 +3,7 @@
   "displayname": "Black Brust",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 10110,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

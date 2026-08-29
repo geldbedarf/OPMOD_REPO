@@ -3,6 +3,7 @@
   "displayname": "Netherhelm",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10593,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

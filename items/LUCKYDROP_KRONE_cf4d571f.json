@@ -3,6 +3,7 @@
   "displayname": "Luckydrop Krone",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 875,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

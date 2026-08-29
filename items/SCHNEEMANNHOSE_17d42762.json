@@ -3,6 +3,7 @@
   "displayname": "Schneemannhose",
   "material": "IRON_LEGGINGS",
   "cmd": 10137,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

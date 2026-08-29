@@ -3,6 +3,7 @@
   "displayname": "❤ Talisman des Herzens ❤",
   "material": "HEART_POTTERY_SHERD",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

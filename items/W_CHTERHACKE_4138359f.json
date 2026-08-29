@@ -3,6 +3,7 @@
   "displayname": "Wächterhacke",
   "material": "NETHERITE_HOE",
   "cmd": 5537,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Osterhasen Schuhe V2",
   "material": "LEATHER_BOOTS",
   "cmd": 10121,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

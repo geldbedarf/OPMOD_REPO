@@ -3,6 +3,7 @@
   "displayname": "Emmys Adminhacke V2",
   "material": "NETHERITE_PICKAXE",
   "cmd": 5520,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

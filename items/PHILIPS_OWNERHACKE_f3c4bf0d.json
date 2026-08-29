@@ -3,6 +3,7 @@
   "displayname": "Philips Ownerhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10005,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

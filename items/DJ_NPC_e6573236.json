@@ -3,6 +3,7 @@
   "displayname": "DJ NPC",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 808,
+  "category": "SPAWNER",
   "damage": 0,
   "lore": [
     "Mit diesem NPC kannst du auf",

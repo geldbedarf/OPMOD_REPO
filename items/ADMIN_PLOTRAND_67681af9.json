@@ -3,6 +3,7 @@
   "displayname": "Admin Plotrand",
   "material": "DARK_OAK_DOOR",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Glueckwunsch du bekommst",

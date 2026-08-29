@@ -3,6 +3,7 @@
   "displayname": "CabCabana´s Katana",
   "material": "DIAMOND_SWORD",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "Signiert von CabCabana am 05.06.2021",

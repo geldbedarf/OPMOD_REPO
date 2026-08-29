@@ -3,6 +3,7 @@
   "displayname": "Zombie Head",
   "material": "ZOMBIE_HEAD",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "x EVENT DRACHENEI x",
   "material": "DRAGON_EGG",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

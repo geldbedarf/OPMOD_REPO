@@ -3,6 +3,7 @@
   "displayname": "Hexenstiefel",
   "material": "IRON_BOOTS",
   "cmd": 10013,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

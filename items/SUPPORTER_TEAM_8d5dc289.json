@@ -3,6 +3,7 @@
   "displayname": "Supporter-Team",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3003,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

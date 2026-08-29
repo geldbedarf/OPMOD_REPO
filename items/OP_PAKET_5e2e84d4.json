@@ -3,6 +3,7 @@
   "displayname": "OP Paket",
   "material": "RED_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 05.06.2021",

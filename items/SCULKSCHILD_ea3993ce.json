@@ -3,6 +3,7 @@
   "displayname": "Sculkschild",
   "material": "SHIELD",
   "cmd": 10127,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

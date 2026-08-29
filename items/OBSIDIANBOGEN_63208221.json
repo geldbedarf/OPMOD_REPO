@@ -3,6 +3,7 @@
   "displayname": "Obsidianbogen",
   "material": "BOW",
   "cmd": 10116,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

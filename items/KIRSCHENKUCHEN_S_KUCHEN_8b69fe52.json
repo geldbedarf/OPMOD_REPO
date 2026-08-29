@@ -3,6 +3,7 @@
   "displayname": "Kirschenkuchen´s Kuchen",
   "material": "CAKE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Signiert von Kirschenkuchen am 03.09.2021",

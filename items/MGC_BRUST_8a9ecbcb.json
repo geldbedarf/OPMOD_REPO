@@ -3,6 +3,7 @@
   "displayname": "MGC Brust",
   "material": "DIAMOND_CHESTPLATE",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

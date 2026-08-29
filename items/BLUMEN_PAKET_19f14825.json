@@ -3,6 +3,7 @@
   "displayname": "Blumen Paket",
   "material": "MAGENTA_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "1x Bunte Vielfalt an Pflanzen",

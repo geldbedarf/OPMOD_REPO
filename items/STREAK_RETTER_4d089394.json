@@ -3,6 +3,7 @@
   "displayname": "Streak Retter",
   "material": "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "BEDROCK Spitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10160,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

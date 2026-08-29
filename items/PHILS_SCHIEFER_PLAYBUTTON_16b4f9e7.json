@@ -3,6 +3,7 @@
   "displayname": "Phils schiefer Playbutton",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 15000,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

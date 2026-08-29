@@ -3,6 +3,7 @@
   "displayname": "Poseidon\u0027s Talisman",
   "material": "TOTEM_OF_UNDYING",
   "cmd": 10000,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

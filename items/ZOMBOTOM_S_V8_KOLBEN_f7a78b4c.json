@@ -3,6 +3,7 @@
   "displayname": "Zombotom\u0027s V8-Kolben",
   "material": "PISTON",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Turboaufladung X",

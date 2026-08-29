@@ -3,6 +3,7 @@
   "displayname": "Valentinshacke",
   "material": "NETHERITE_HOE",
   "cmd": 10109,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

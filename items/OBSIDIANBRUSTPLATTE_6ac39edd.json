@@ -3,6 +3,7 @@
   "displayname": "Obsidianbrustplatte",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 10123,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Weihnachtliche Hacke",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 10013,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

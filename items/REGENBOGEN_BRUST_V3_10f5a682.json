@@ -3,6 +3,7 @@
   "displayname": "Regenbogen Brust v3",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

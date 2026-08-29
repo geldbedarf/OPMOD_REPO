@@ -3,6 +3,7 @@
   "displayname": "Magenta Ostereierfarbe",
   "material": "MAGENTA_DYE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

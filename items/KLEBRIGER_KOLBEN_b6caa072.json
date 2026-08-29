@@ -3,6 +3,7 @@
   "displayname": "Klebriger Kolben",
   "material": "STICKY_PISTON",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

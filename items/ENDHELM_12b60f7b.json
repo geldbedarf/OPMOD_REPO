@@ -3,6 +3,7 @@
   "displayname": "Endhelm",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10573,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

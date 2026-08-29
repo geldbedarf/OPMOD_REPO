@@ -3,6 +3,7 @@
   "displayname": "Diamond",
   "material": "DIAMOND",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [],
   "nbttag": "{components:{\"minecraft:damage\":0},count:1,id:\"minecraft:diamond\"}",

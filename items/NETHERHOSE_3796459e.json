@@ -3,6 +3,7 @@
   "displayname": "Netherhose",
   "material": "IRON_LEGGINGS",
   "cmd": 10004,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

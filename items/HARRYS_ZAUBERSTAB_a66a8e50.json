@@ -3,6 +3,7 @@
   "displayname": "Harrys Zauberstab",
   "material": "NETHERITE_SWORD",
   "cmd": 10157,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

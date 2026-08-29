@@ -3,6 +3,7 @@
   "displayname": "Elfensense",
   "material": "NETHERITE_HOE",
   "cmd": 5511,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

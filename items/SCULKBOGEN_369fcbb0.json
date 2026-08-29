@@ -3,6 +3,7 @@
   "displayname": "Sculkbogen",
   "material": "BOW",
   "cmd": 10129,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

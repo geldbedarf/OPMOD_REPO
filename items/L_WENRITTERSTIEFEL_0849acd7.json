@@ -3,6 +3,7 @@
   "displayname": "Löwenritterstiefel",
   "material": "IRON_BOOTS",
   "cmd": 5525,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

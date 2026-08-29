@@ -3,6 +3,7 @@
   "displayname": "Nachricht von Obi-Wan Kenobi",
   "material": "PAPER",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

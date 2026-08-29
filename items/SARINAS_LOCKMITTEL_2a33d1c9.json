@@ -3,6 +3,7 @@
   "displayname": "Sarinas Lockmittel",
   "material": "COOKED_PORKCHOP",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Signiert von SarinaEFN am 05.06.2021",

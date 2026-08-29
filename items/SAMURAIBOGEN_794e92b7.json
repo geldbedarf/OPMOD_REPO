@@ -3,6 +3,7 @@
   "displayname": "Samuraibogen",
   "material": "BOW",
   "cmd": 10103,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

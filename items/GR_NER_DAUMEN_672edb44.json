@@ -3,6 +3,7 @@
   "displayname": "Grüner Daumen",
   "material": "NETHERITE_HOE",
   "cmd": 10301,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

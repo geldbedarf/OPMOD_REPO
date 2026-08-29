@@ -3,6 +3,7 @@
   "displayname": "Emmys Donut",
   "material": "PAPER",
   "cmd": 10013,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "Signiert von EinfachEmmy am 02.05.2024"

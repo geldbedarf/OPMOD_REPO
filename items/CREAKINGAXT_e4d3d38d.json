@@ -3,6 +3,7 @@
   "displayname": "Creakingaxt",
   "material": "NETHERITE_AXE",
   "cmd": 5527,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

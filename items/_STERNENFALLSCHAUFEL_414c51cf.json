@@ -3,6 +3,7 @@
   "displayname": "✶ Sternenfallschaufel ✶",
   "material": "GOLDEN_SHOVEL",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

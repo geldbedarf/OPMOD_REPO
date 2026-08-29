@@ -3,6 +3,7 @@
   "displayname": "x  Devins Flügel x",
   "material": "ELYTRA",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

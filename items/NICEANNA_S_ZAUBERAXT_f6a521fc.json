@@ -3,6 +3,7 @@
   "displayname": "NiceAnna´s Zauberaxt",
   "material": "WOODEN_AXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von NiceAnna02 am 06.02.2021",

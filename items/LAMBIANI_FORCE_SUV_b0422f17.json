@@ -3,6 +3,7 @@
   "displayname": "Lambiani Force SUV",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6221,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

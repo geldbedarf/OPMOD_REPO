@@ -3,6 +3,7 @@
   "displayname": "OPBirthPICKE #6",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10156,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

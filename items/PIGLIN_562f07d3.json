@@ -3,6 +3,7 @@
   "displayname": "Piglin",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3061,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

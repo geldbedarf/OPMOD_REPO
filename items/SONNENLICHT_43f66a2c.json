@@ -3,6 +3,7 @@
   "displayname": "Sonnenlicht",
   "material": "LIGHT",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Shard Magnet",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10316,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Community Jacke",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Nutzt die Kraft der Community {2/8}",

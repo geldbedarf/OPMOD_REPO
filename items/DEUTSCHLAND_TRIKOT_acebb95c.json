@@ -3,6 +3,7 @@
   "displayname": "Deutschland-Trikot",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 10124,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

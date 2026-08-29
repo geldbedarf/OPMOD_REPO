@@ -3,6 +3,7 @@
   "displayname": "Heckenschere",
   "material": "SHEARS",
   "cmd": 10000,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

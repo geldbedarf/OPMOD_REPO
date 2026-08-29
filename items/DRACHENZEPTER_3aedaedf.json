@@ -3,6 +3,7 @@
   "displayname": "Drachenzepter",
   "material": "NETHERITE_SWORD",
   "cmd": 10102,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

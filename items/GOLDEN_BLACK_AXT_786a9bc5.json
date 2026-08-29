@@ -3,6 +3,7 @@
   "displayname": "GOLDEN BLACK Axt",
   "material": "NETHERITE_AXE",
   "cmd": 5509,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

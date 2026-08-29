@@ -3,6 +3,7 @@
   "displayname": "a XXL Moneydrop Geldsack a",
   "material": "PAPER",
   "cmd": 20205,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

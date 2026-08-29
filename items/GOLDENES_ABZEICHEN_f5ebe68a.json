@@ -3,6 +3,7 @@
   "displayname": "Goldenes Abzeichen",
   "material": "GOLD_NUGGET",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

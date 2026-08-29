@@ -3,6 +3,7 @@
   "displayname": "Amors Beinschutz",
   "material": "IRON_LEGGINGS",
   "cmd": 10144,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "FRÜHLINGS SCHUHE",
   "material": "LEATHER_BOOTS",
   "cmd": 10101,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

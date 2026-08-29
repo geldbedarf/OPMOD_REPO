@@ -3,6 +3,7 @@
   "displayname": "TNT Schild",
   "material": "SHIELD",
   "cmd": 10112,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

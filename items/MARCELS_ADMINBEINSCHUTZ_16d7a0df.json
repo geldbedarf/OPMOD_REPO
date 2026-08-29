@@ -3,6 +3,7 @@
   "displayname": "Marcels Adminbeinschutz",
   "material": "IRON_LEGGINGS",
   "cmd": 10138,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

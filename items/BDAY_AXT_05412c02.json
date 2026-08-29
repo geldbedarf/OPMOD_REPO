@@ -3,6 +3,7 @@
   "displayname": "BDAY Axt",
   "material": "NETHERITE_AXE",
   "cmd": 10134,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

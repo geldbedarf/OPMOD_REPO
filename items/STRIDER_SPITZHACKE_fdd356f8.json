@@ -3,6 +3,7 @@
   "displayname": "Strider Spitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10169,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

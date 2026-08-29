@@ -3,6 +3,7 @@
   "displayname": "SkyGuy\u0027s Spalter",
   "material": "DIAMOND_SWORD",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "Signiert von SkyGuyTV am 28.06.2020",

@@ -3,6 +3,7 @@
   "displayname": "Verkleinerungs-Wurfscheibe",
   "material": "MUSIC_DISC_CHIRP",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

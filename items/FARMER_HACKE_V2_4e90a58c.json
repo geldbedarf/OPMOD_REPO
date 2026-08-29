@@ -3,6 +3,7 @@
   "displayname": "Farmer Hacke V2",
   "material": "DIAMOND_HOE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von SkyGuyTV am 12.08.2020",

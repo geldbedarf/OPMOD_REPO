@@ -3,6 +3,7 @@
   "displayname": "SELTENE Winter Hacke",
   "material": "DIAMOND_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 01.12.2021",

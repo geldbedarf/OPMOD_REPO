@@ -3,6 +3,7 @@
   "displayname": "Farmers Schwert v2",
   "material": "STONE_SWORD",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

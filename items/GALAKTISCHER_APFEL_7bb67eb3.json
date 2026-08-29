@@ -3,6 +3,7 @@
   "displayname": "Galaktischer Apfel",
   "material": "ENCHANTED_GOLDEN_APPLE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Signiert von Phorx am 28.08.2020",

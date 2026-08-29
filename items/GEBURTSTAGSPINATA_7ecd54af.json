@@ -3,6 +3,7 @@
   "displayname": "Geburtstagspinata",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 0,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

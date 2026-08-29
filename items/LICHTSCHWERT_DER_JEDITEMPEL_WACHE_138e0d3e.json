@@ -3,6 +3,7 @@
   "displayname": "Lichtschwert der Jeditempel-Wache",
   "material": "NETHERITE_SWORD",
   "cmd": 10406,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

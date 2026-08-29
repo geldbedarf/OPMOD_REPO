@@ -3,6 +3,7 @@
   "displayname": "OPBirthSCHAUFEL #7",
   "material": "DIAMOND_SHOVEL",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

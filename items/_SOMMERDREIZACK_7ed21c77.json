@@ -3,6 +3,7 @@
   "displayname": "✳ Sommerdreizack ✳",
   "material": "TRIDENT",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

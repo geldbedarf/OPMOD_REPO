@@ -3,6 +3,7 @@
   "displayname": "Devin\u0027s Speedcart ",
   "material": "MINECART",
   "cmd": 1001,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

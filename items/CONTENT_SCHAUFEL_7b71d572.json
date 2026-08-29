@@ -3,6 +3,7 @@
   "displayname": "Content Schaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

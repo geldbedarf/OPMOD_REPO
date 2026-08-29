@@ -3,6 +3,7 @@
   "displayname": "Skylany´s Knopf der Weisheit",
   "material": "STONE_BUTTON",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von Skylany am 06.02.2021",

@@ -3,6 +3,7 @@
   "displayname": "Schaufel vom Kobold",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10105,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

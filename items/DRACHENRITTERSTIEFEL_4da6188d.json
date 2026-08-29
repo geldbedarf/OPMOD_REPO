@@ -3,6 +3,7 @@
   "displayname": "Drachenritterstiefel",
   "material": "IRON_BOOTS",
   "cmd": 5524,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Japvins Discord Button",
   "material": "PLAYER_HEAD",
   "cmd": 0,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "Signiert von Japvin am 05.06.2021",

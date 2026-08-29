@@ -3,6 +3,7 @@
   "displayname": "Koboldspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10119,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

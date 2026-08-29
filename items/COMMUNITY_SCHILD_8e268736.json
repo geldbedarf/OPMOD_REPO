@@ -3,6 +3,7 @@
   "displayname": "Community Schild",
   "material": "SHIELD",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Nutzt die Kraft der Community {5/8}",

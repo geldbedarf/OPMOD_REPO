@@ -3,6 +3,7 @@
   "displayname": "Hera\u0027s Kalikori",
   "material": "TOTEM_OF_UNDYING",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

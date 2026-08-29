@@ -3,6 +3,7 @@
   "displayname": "Redstone Luftschiff",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6340,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

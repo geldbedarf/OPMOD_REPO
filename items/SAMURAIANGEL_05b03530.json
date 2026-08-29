@@ -3,6 +3,7 @@
   "displayname": "Samuraiangel",
   "material": "FISHING_ROD",
   "cmd": 10302,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

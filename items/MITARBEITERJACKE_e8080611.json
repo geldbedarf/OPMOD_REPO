@@ -3,6 +3,7 @@
   "displayname": "Mitarbeiterjacke",
   "material": "IRON_CHESTPLATE",
   "cmd": 10142,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

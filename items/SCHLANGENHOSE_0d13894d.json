@@ -3,6 +3,7 @@
   "displayname": "Schlangenhose",
   "material": "IRON_LEGGINGS",
   "cmd": 10139,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

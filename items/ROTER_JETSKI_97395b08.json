@@ -3,6 +3,7 @@
   "displayname": "Roter Jetski",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 15003,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

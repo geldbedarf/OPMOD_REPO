@@ -3,6 +3,7 @@
   "displayname": "f Nicht von dieser Welt f",
   "material": "SLIME_BLOCK",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Teil einer anderen Spezies",

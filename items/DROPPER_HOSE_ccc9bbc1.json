@@ -3,6 +3,7 @@
   "displayname": "Dropper Hose",
   "material": "LEATHER_LEGGINGS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Dropper Kollektion (3/6)",

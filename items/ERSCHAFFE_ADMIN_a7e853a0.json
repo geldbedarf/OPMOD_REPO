@@ -3,6 +3,7 @@
   "displayname": "Erschaffe Admin",
   "material": "PIG_SPAWN_EGG",
   "cmd": 0,
+  "category": "SPAWNER",
   "damage": 0,
   "lore": [
     "Mit etwas Glück erscheint",

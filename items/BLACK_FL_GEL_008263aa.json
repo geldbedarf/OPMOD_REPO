@@ -3,6 +3,7 @@
   "displayname": "Black Flügel",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10153,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

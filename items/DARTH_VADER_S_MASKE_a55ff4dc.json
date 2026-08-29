@@ -3,6 +3,7 @@
   "displayname": "Darth Vader\u0027s Maske",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10367,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

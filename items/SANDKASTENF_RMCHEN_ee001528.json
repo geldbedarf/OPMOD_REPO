@@ -3,6 +3,7 @@
   "displayname": "Sandkastenförmchen",
   "material": "FLOWER_POT",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

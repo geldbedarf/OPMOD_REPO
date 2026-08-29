@@ -3,6 +3,7 @@
   "displayname": "Philips Brille",
   "material": "IRON_HELMET",
   "cmd": 5514,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

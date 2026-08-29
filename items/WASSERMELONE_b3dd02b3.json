@@ -3,6 +3,7 @@
   "displayname": "Wassermelone",
   "material": "MELON_SLICE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

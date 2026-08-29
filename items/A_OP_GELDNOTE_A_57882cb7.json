@@ -3,6 +3,7 @@
   "displayname": "a OP-Geldnote a",
   "material": "PAPER",
   "cmd": 20204,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

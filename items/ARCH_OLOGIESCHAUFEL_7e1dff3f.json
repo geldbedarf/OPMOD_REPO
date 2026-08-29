@@ -3,6 +3,7 @@
   "displayname": "Archäologieschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10000,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

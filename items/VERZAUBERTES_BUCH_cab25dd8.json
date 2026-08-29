@@ -3,6 +3,7 @@
   "displayname": "Verzaubertes Buch",
   "material": "ENCHANTED_BOOK",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

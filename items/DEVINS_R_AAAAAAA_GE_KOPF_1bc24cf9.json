@@ -3,6 +3,7 @@
   "displayname": "Devins R*AAAAAAA*GE Kopf",
   "material": "PLAYER_HEAD",
   "cmd": 0,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "Rage XI",

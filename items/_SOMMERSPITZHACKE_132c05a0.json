@@ -3,6 +3,7 @@
   "displayname": "✳ Sommerspitzhacke ✳",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10144,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

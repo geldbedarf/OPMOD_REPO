@@ -3,6 +3,7 @@
   "displayname": "👻 Geisterlaterne 👻",
   "material": "SOUL_LANTERN",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

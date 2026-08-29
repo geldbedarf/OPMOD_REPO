@@ -3,6 +3,7 @@
   "displayname": "Schattenaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10113,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

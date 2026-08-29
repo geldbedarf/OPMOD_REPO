@@ -3,6 +3,7 @@
   "displayname": "GOLDEN BLACK Bogen",
   "material": "BOW",
   "cmd": 5509,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

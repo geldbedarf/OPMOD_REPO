@@ -3,6 +3,7 @@
   "displayname": "Phase II Stiefel",
   "material": "LEATHER_BOOTS",
   "cmd": 10120,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Klonrüstung der repu-",

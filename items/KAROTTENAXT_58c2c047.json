@@ -3,6 +3,7 @@
   "displayname": "Karottenaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10145,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

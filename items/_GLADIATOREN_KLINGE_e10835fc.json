@@ -3,6 +3,7 @@
   "displayname": ". Gladiatoren Klinge .",
   "material": "GOLDEN_SWORD",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "Schärfe IX",

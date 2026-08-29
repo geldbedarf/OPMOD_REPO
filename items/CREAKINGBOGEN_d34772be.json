@@ -3,6 +3,7 @@
   "displayname": "Creakingbogen",
   "material": "BOW",
   "cmd": 5527,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

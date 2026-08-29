@@ -3,6 +3,7 @@
   "displayname": "• Phils Farmpicke v1 •",
   "material": "DIAMOND_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Kupferhelm",
   "material": "IRON_HELMET",
   "cmd": 10218,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Kupferkollektion (6/13)",

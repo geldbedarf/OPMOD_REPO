@@ -3,6 +3,7 @@
   "displayname": "Quarzaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10132,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Grünes Schneemobil",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10132,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

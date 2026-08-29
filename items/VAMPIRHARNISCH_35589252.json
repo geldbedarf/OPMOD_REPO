@@ -3,6 +3,7 @@
   "displayname": "Vampirharnisch",
   "material": "IRON_CHESTPLATE",
   "cmd": 5504,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

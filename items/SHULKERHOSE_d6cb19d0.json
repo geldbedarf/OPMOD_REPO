@@ -3,6 +3,7 @@
   "displayname": "Shulkerhose",
   "material": "IRON_LEGGINGS",
   "cmd": 5523,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

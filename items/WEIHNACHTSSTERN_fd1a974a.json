@@ -3,6 +3,7 @@
   "displayname": "Weihnachtsstern",
   "material": "NETHER_STAR",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 01.12.2021",

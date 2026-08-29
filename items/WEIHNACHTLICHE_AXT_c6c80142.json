@@ -3,6 +3,7 @@
   "displayname": "Weihnachtliche Axt",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 10010,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

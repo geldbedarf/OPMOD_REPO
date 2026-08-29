@@ -3,6 +3,7 @@
   "displayname": "Wither Jäger",
   "material": "DIAMOND_HELMET",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 25.02.2022",

@@ -3,6 +3,7 @@
   "displayname": "OP Teppichmesser",
   "material": "SHEARS",
   "cmd": 10002,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

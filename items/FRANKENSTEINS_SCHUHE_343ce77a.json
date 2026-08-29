@@ -3,6 +3,7 @@
   "displayname": "Frankensteins Schuhe",
   "material": "IRON_BOOTS",
   "cmd": 10131,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

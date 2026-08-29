@@ -3,6 +3,7 @@
   "displayname": "Obsidianschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10119,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

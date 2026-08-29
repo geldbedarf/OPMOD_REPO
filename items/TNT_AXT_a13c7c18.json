@@ -3,6 +3,7 @@
   "displayname": "TNT Axt",
   "material": "NETHERITE_AXE",
   "cmd": 10122,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

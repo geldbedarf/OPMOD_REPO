@@ -3,6 +3,7 @@
   "displayname": "JonCarrs Adminspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10157,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

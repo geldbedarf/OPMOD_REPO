@@ -3,6 +3,7 @@
   "displayname": "Smaragdschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10106,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

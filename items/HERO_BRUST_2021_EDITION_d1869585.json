@@ -3,6 +3,7 @@
   "displayname": "HERO Brust 2021 Edition",
   "material": "CHAINMAIL_CHESTPLATE",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

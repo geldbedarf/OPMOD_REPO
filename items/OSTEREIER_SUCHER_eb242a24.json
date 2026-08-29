@@ -3,6 +3,7 @@
   "displayname": "Ostereier Sucher",
   "material": "SPYGLASS",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

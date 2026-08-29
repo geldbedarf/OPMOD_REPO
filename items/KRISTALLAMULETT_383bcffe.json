@@ -3,6 +3,7 @@
   "displayname": "Kristallamulett",
   "material": "LARGE_AMETHYST_BUD",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

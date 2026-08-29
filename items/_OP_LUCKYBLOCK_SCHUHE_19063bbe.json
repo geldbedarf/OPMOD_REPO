@@ -3,6 +3,7 @@
   "displayname": "☘ OP-Luckyblock Schuhe ☘",
   "material": "GOLDEN_BOOTS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

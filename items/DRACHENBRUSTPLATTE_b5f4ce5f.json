@@ -3,6 +3,7 @@
   "displayname": "Drachenbrustplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 10104,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

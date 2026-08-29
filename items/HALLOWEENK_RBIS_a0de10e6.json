@@ -3,6 +3,7 @@
   "displayname": "Halloweenkürbis",
   "material": "JACK_O_LANTERN",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

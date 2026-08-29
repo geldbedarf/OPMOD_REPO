@@ -3,6 +3,7 @@
   "displayname": "Engelsglanzklinge",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 12011,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

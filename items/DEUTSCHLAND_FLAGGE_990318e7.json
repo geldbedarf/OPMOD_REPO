@@ -3,6 +3,7 @@
   "displayname": "Deutschland-Flagge",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10415,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Admin Plotaushüller",
   "material": "DIAMOND_SHOVEL",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Mit dieser Schaufel huellt",

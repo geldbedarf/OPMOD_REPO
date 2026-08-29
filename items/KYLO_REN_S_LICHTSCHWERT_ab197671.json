@@ -3,6 +3,7 @@
   "displayname": "Kylo Ren\u0027s Lichtschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10123,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Schwert der Tapferen",
   "material": "NETHERITE_SWORD",
   "cmd": 10159,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

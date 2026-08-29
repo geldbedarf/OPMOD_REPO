@@ -3,6 +3,7 @@
   "displayname": "Froschlatschen",
   "material": "IRON_BOOTS",
   "cmd": 10011,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

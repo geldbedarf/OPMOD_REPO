@@ -3,6 +3,7 @@
   "displayname": "x Phil´s Bauhacke x",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10109,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Werde mit dieser Spitzhacke zum",

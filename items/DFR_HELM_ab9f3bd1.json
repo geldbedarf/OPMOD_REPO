@@ -3,6 +3,7 @@
   "displayname": "DFR Helm",
   "material": "DIAMOND_HELMET",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 06.02.2021",

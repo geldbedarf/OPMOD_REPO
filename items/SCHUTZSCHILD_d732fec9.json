@@ -3,6 +3,7 @@
   "displayname": "Schutzschild",
   "material": "SHIELD",
   "cmd": 900,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Geh(weg) Stock",
   "material": "STICK",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

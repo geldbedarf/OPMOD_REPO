@@ -3,6 +3,7 @@
   "displayname": "Antenne des Kupfergolems",
   "material": "LIGHTNING_ROD",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

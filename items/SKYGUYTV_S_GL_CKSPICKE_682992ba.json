@@ -3,6 +3,7 @@
   "displayname": "SkyGuyTV´s Glückspicke",
   "material": "DIAMOND_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von SkyGuyTV am 25.02.2022",

@@ -3,6 +3,7 @@
   "displayname": "Polizist NPC",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 833,
+  "category": "SPAWNER",
   "damage": 0,
   "lore": [
     "Mit diesem NPC kannst du dein",

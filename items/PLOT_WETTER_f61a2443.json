@@ -3,6 +3,7 @@
   "displayname": "Plot Wetter",
   "material": "SNOWBALL",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Mit diesem Item kannst du",

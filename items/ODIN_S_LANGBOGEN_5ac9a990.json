@@ -3,6 +3,7 @@
   "displayname": "Odin\u0027s Langbogen",
   "material": "BOW",
   "cmd": 10111,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

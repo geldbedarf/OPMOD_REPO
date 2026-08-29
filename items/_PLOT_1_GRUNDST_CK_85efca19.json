@@ -3,6 +3,7 @@
   "displayname": "⚔ PLOT | 1 Grundstück",
   "material": "PLAYER_HEAD",
   "cmd": 0,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

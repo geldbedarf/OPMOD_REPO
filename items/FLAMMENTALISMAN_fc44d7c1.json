@@ -3,6 +3,7 @@
   "displayname": "Flammentalisman",
   "material": "TOTEM_OF_UNDYING",
   "cmd": 10002,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

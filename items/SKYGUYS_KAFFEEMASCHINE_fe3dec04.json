@@ -3,6 +3,7 @@
   "displayname": "SkyGuys Kaffeemaschine",
   "material": "BREWING_STAND",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von SkyGuyTV am 06.02.2021",

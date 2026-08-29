@@ -3,6 +3,7 @@
   "displayname": "Wanderritterstiefel",
   "material": "IRON_BOOTS",
   "cmd": 5518,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

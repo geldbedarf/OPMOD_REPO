@@ -3,6 +3,7 @@
   "displayname": "Legionärssandalen",
   "material": "IRON_BOOTS",
   "cmd": 5534,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

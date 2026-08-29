@@ -3,6 +3,7 @@
   "displayname": "Hades Seelensense",
   "material": "NETHERITE_SWORD",
   "cmd": 10013,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

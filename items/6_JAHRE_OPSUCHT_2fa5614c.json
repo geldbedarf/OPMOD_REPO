@@ -3,6 +3,7 @@
   "displayname": "6 Jahre OPSUCHT",
   "material": "BOOK",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "Hier drin stehen alle Erinnerungen von OPSUCHT!",

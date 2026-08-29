@@ -3,6 +3,7 @@
   "displayname": "OP PLOTSPITZHACKE",
   "material": "DIAMOND_PICKAXE",
   "cmd": 1002,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Telepathie I",

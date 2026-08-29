@@ -3,6 +3,7 @@
   "displayname": "OP Pizza Scooter",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6320,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

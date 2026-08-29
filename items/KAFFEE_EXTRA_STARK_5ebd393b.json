@@ -3,6 +3,7 @@
   "displayname": "Kaffee EXTRA STARK",
   "material": "POTION",
   "cmd": 0,
+  "category": "TRAENKE",
   "damage": 0,
   "lore": [
     "Signiert von SkyGuyTV am 06.02.2021"

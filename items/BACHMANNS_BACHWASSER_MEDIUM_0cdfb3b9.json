@@ -3,6 +3,7 @@
   "displayname": "Bachmanns Bachwasser MEDIUM",
   "material": "WATER_BUCKET",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Signiert von Bachmann__ am 25.02.2022",

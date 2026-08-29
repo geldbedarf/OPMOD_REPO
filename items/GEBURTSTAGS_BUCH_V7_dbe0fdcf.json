@@ -3,6 +3,7 @@
   "displayname": "Geburtstags Buch V7",
   "material": "ENCHANTED_BOOK",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "Signiert von OPSUCHT am 23.10.2025",

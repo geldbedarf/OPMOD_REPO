@@ -3,6 +3,7 @@
   "displayname": "Blasser Garten",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3103,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Netherbrustplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 10004,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

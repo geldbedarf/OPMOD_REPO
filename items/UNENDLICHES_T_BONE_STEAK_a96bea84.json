@@ -3,6 +3,7 @@
   "displayname": "Unendliches T-BONE STEAK",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10422,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

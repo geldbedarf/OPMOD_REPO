@@ -3,6 +3,7 @@
   "displayname": "Teleportstab",
   "material": "NETHERITE_SWORD",
   "cmd": 9016,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

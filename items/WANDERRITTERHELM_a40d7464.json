@@ -3,6 +3,7 @@
   "displayname": "Wanderritterhelm",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 5518,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

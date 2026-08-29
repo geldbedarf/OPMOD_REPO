@@ -3,6 +3,7 @@
   "displayname": "Luke Skywalkers Lichtschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10401,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

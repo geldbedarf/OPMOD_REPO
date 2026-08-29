@@ -3,6 +3,7 @@
   "displayname": "Piratenhose",
   "material": "IRON_LEGGINGS",
   "cmd": 10001,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

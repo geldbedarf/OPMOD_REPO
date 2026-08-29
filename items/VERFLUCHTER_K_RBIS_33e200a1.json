@@ -3,6 +3,7 @@
   "displayname": "Verfluchter Kürbis",
   "material": "CARVED_PUMPKIN",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

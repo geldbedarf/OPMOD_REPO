@@ -3,6 +3,7 @@
   "displayname": "Wikingerhelm",
   "material": "NETHERITE_HELMET",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

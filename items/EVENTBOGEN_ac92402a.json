@@ -3,6 +3,7 @@
   "displayname": "EVENTBOGEN ",
   "material": "BOW",
   "cmd": 0,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [],
   "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"gold\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"EVENTBOGEN \",underlined:0b}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:power\":2,\"minecraft:unbreaking\":10},\"minecraft:repair_cost\":1},count:1,id:\"minecraft:bow\"}",

@@ -3,6 +3,7 @@
   "displayname": "Löwenritterharnisch",
   "material": "IRON_CHESTPLATE",
   "cmd": 5525,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

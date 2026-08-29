@@ -3,6 +3,7 @@
   "displayname": "GOLDEN BLACK Spitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 5509,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

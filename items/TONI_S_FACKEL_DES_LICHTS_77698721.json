@@ -3,6 +3,7 @@
   "displayname": "Toni´s Fackel des Lichts",
   "material": "TORCH",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von itss_toni123 am 25.02.2022",

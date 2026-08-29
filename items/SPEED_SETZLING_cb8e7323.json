@@ -3,6 +3,7 @@
   "displayname": "Speed Setzling",
   "material": "OAK_SAPLING",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

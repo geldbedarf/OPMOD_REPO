@@ -3,6 +3,7 @@
   "displayname": "Haus der Tapferen Gewand",
   "material": "IRON_CHESTPLATE",
   "cmd": 25001,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

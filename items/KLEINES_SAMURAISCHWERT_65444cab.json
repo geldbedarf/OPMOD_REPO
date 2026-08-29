@@ -3,6 +3,7 @@
   "displayname": "Kleines Samuraischwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10106,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

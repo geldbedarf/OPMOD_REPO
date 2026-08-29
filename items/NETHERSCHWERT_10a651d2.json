@@ -3,6 +3,7 @@
   "displayname": "Netherschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10153,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

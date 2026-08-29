@@ -3,6 +3,7 @@
   "displayname": "OP-Kern",
   "material": "HEAVY_CORE",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

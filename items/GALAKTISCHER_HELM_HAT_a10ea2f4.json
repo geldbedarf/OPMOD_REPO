@@ -3,6 +3,7 @@
   "displayname": "Galaktischer Helm (/hat)",
   "material": "DIAMOND_ORE",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Geburtstags Kristall",
   "material": "MEDIUM_AMETHYST_BUD",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

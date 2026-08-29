@@ -3,6 +3,7 @@
   "displayname": "x Emmy´s Mütze x",
   "material": "PAPER",
   "cmd": 10008,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

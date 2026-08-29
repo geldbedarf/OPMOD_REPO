@@ -3,6 +3,7 @@
   "displayname": "Mystiat´s Trampolin",
   "material": "SLIME_BLOCK",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von Mystiat am 06.02.2021",

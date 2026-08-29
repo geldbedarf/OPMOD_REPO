@@ -3,6 +3,7 @@
   "displayname": "Pixie´s ♚ Drachenschuppe ♚",
   "material": "IRON_NUGGET",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Härte X",

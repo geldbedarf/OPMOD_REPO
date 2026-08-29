@@ -3,6 +3,7 @@
   "displayname": "ItzzNeoxs Überwachungskamera",
   "material": "PLAYER_HEAD",
   "cmd": 0,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "Signiert von ItzzNeox am 25.02.2022",

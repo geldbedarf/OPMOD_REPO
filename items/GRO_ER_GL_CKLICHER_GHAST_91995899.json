@@ -3,6 +3,7 @@
   "displayname": "Großer Glücklicher Ghast",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 15002,
+  "category": "SPAWNER",
   "damage": 0,
   "lore": [
     "",

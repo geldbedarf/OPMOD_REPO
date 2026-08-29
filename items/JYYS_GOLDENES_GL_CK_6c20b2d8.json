@@ -3,6 +3,7 @@
   "displayname": "Jyys goldenes Glück",
   "material": "GOLD_NUGGET",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Signiert von Jyy0503 am 05.06.2021",

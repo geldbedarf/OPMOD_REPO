@@ -3,6 +3,7 @@
   "displayname": "Emmys Herzstab",
   "material": "NETHERITE_SWORD",
   "cmd": 10002,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Königliche Schuhe",
   "material": "GOLDEN_BOOTS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Haltbarkeit 30",

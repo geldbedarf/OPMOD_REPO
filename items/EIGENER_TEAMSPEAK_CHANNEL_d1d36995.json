@@ -3,6 +3,7 @@
   "displayname": "Eigener TeamSpeak Channel!",
   "material": "IRON_DOOR",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Melde dich im TeamSpeak",

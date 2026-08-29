@@ -3,6 +3,7 @@
   "displayname": "Stayzy\u0027s Casino Ticket",
   "material": "PAPER",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "Signiert von _stayzy_ am 25.02.2022",

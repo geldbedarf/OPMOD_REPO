@@ -3,6 +3,7 @@
   "displayname": "Emmys scharfe Rose",
   "material": "ROSE_BUSH",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

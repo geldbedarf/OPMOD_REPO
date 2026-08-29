@@ -3,6 +3,7 @@
   "displayname": "Plüschi Navex",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6330,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Unendliche Fackel",
   "material": "TORCH",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

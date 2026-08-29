@@ -3,6 +3,7 @@
   "displayname": "SkyGuys Apfel",
   "material": "ENCHANTED_GOLDEN_APPLE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "",

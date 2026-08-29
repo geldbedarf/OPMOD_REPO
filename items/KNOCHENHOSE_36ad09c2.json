@@ -3,6 +3,7 @@
   "displayname": "Knochenhose",
   "material": "IRON_LEGGINGS",
   "cmd": 5513,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

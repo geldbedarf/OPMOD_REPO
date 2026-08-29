@@ -3,6 +3,7 @@
   "displayname": "Amethystbrecher",
   "material": "NETHERITE_PICKAXE",
   "cmd": 9012,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

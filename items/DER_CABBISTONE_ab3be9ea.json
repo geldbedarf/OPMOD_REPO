@@ -3,6 +3,7 @@
   "displayname": "Der Cabbistone",
   "material": "COBBLESTONE",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von CabCabana am 06.10.2020",

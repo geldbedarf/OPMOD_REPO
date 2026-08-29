@@ -3,6 +3,7 @@
   "displayname": "Yodas Lichtschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10402,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

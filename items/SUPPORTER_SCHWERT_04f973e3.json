@@ -3,6 +3,7 @@
   "displayname": "Supporter Schwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10301,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

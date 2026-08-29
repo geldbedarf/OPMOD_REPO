@@ -3,6 +3,7 @@
   "displayname": "Silver\u0027s Stern",
   "material": "NETHER_STAR",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "f WEGWEISER f",

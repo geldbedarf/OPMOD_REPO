@@ -3,6 +3,7 @@
   "displayname": "Schattensense",
   "material": "NETHERITE_HOE",
   "cmd": 10106,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

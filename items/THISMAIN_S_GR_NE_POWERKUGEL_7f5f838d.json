@@ -3,6 +3,7 @@
   "displayname": "ThisMain\u0027s Grüne Powerkugel",
   "material": "SLIME_BALL",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Viel Spass auf Durchrasten",

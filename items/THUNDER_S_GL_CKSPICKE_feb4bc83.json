@@ -3,6 +3,7 @@
   "displayname": "Thunder´s Glückspicke",
   "material": "DIAMOND_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von ThunderNRW am 11.04.2021",

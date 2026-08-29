@@ -3,6 +3,7 @@
   "displayname": "Thunder´s erster Diamant",
   "material": "DIAMOND",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Signiert von ThunderNRW am 06.02.2021",

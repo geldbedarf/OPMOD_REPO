@@ -3,6 +3,7 @@
   "displayname": "Redstoneaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10120,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

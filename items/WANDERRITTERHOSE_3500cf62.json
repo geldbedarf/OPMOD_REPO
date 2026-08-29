@@ -3,6 +3,7 @@
   "displayname": "Wanderritterhose",
   "material": "IRON_LEGGINGS",
   "cmd": 5518,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

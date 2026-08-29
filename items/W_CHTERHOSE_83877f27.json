@@ -3,6 +3,7 @@
   "displayname": "Wächterhose",
   "material": "IRON_LEGGINGS",
   "cmd": 5537,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Ausgetrockneter Ghast",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3101,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

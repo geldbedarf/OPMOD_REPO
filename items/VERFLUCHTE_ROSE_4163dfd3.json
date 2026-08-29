@@ -3,6 +3,7 @@
   "displayname": "Verfluchte Rose",
   "material": "WITHER_ROSE",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

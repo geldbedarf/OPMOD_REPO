@@ -3,6 +3,7 @@
   "displayname": "Potion of Swiftness",
   "material": "POTION",
   "cmd": 0,
+  "category": "TRAENKE",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 29.03.2021"

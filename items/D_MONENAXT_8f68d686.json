@@ -3,6 +3,7 @@
   "displayname": "Dämonenaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10135,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

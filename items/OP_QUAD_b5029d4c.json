@@ -3,6 +3,7 @@
   "displayname": "OP Quad",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6346,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

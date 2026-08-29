@@ -3,6 +3,7 @@
   "displayname": "kkk OSTER AXT kkk",
   "material": "NETHERITE_AXE",
   "cmd": 10401,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

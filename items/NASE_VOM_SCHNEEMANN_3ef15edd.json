@@ -3,6 +3,7 @@
   "displayname": "Nase vom Schneemann",
   "material": "CARROT",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "",

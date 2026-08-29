@@ -3,6 +3,7 @@
   "displayname": "Marcels Adminhelm",
   "material": "IRON_HELMET",
   "cmd": 10220,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

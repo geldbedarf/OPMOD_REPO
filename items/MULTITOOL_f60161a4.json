@@ -3,6 +3,7 @@
   "displayname": "Multitool",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10131,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "────────────────────",

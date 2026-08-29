@@ -3,6 +3,7 @@
   "displayname": "WARDEN Spitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10139,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

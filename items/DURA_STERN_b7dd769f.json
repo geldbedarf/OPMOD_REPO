@@ -3,6 +3,7 @@
   "displayname": "DURA Stern",
   "material": "NETHER_STAR",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Signiert von SkyGuyTV am 24.09.2020",

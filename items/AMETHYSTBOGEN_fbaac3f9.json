@@ -3,6 +3,7 @@
   "displayname": "Amethystbogen",
   "material": "BOW",
   "cmd": 10114,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

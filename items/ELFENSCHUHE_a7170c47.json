@@ -3,6 +3,7 @@
   "displayname": "Elfenschuhe",
   "material": "IRON_BOOTS",
   "cmd": 5511,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

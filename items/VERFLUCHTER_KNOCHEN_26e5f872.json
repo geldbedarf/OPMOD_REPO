@@ -3,6 +3,7 @@
   "displayname": "Verfluchter Knochen",
   "material": "BONE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

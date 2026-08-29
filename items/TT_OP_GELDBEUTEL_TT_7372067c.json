@@ -3,6 +3,7 @@
   "displayname": "tt OP Geldbeutel tt",
   "material": "PAPER",
   "cmd": 20205,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

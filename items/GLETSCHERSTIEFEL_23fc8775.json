@@ -3,6 +3,7 @@
   "displayname": "Gletscherstiefel",
   "material": "IRON_BOOTS",
   "cmd": 5601,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

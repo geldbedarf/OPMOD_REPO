@@ -3,6 +3,7 @@
   "displayname": "Stein der Auferstehung",
   "material": "TOTEM_OF_UNDYING",
   "cmd": 10004,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

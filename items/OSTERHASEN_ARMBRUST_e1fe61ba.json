@@ -3,6 +3,7 @@
   "displayname": "Osterhasen Armbrust",
   "material": "CROSSBOW",
   "cmd": 10010,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

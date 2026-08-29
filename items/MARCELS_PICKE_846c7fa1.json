@@ -3,6 +3,7 @@
   "displayname": "Marcels Picke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10133,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

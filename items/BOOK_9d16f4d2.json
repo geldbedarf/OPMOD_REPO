@@ -3,6 +3,7 @@
   "displayname": "Book",
   "material": "BOOK",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "Frohe Weihnachten wünscht",

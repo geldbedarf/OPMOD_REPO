@@ -3,6 +3,7 @@
   "displayname": "Blut Suppe",
   "material": "BEETROOT_SOUP",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

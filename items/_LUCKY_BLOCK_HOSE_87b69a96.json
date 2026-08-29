@@ -3,6 +3,7 @@
   "displayname": "?¿? Lucky-Block-Hose ?¿?",
   "material": "LEATHER_LEGGINGS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Unvorhersehbare Überraschung für die Hose.",

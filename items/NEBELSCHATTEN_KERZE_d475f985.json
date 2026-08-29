@@ -3,6 +3,7 @@
   "displayname": "Nebelschatten-Kerze",
   "material": "GRAY_CANDLE",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

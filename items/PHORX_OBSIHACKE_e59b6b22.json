@@ -3,6 +3,7 @@
   "displayname": "Phorx Obsihacke",
   "material": "DIAMOND_PICKAXE",
   "cmd": 1001,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

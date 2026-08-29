@@ -3,6 +3,7 @@
   "displayname": "Trade n\u0027 Travel Boosterpack",
   "material": "PAPER",
   "cmd": 636,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

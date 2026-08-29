@@ -3,6 +3,7 @@
   "displayname": "FRÜHLINGS AXT",
   "material": "NETHERITE_AXE",
   "cmd": 10301,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

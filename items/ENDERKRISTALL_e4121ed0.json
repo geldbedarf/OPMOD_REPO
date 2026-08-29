@@ -3,6 +3,7 @@
   "displayname": "Enderkristall",
   "material": "END_CRYSTAL",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 03.09.2021",

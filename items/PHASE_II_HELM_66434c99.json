@@ -3,6 +3,7 @@
   "displayname": "Phase II Helm",
   "material": "LEATHER_HELMET",
   "cmd": 10212,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Klonrüstung der repu-",

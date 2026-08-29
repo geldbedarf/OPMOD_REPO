@@ -3,6 +3,7 @@
   "displayname": "GOLDEN BLACK Angel",
   "material": "FISHING_ROD",
   "cmd": 5509,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Automatischer Komprimierer",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 841,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

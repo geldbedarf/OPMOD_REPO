@@ -3,6 +3,7 @@
   "displayname": "x Santa\u0027s Ohrenputzer x",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 2003,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Shard Wüstengräber-Schaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 800,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

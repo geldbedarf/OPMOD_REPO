@@ -3,6 +3,7 @@
   "displayname": "Kohleschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10125,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

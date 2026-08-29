@@ -3,6 +3,7 @@
   "displayname": "FRÜHLINGS BRUSTPLATTE",
   "material": "LEATHER_CHESTPLATE",
   "cmd": 10101,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

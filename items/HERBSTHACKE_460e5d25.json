@@ -3,6 +3,7 @@
   "displayname": "Herbsthacke",
   "material": "NETHERITE_HOE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

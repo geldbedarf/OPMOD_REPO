@@ -3,6 +3,7 @@
   "displayname": "Piratenschuhe",
   "material": "IRON_BOOTS",
   "cmd": 10001,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

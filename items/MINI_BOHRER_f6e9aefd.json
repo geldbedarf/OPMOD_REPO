@@ -3,6 +3,7 @@
   "displayname": "Mini-Bohrer",
   "material": "NETHERITE_PICKAXE",
   "cmd": 802,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

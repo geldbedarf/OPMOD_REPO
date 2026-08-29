@@ -3,6 +3,7 @@
   "displayname": "Sculkaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10153,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

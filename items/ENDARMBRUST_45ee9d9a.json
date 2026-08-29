@@ -3,6 +3,7 @@
   "displayname": "Endarmbrust",
   "material": "CROSSBOW",
   "cmd": 10016,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Samuraispitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10118,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Obsidianhacke",
   "material": "NETHERITE_HOE",
   "cmd": 10117,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

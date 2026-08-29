@@ -3,6 +3,7 @@
   "displayname": "OPSUCHT Helikopter",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6273,
+  "category": "FAHRZEUGE",
   "damage": 0,
   "lore": [
     "",

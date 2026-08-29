@@ -3,6 +3,7 @@
   "displayname": "Amethystbrustplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 10114,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Riesenpilz",
   "material": "APPLE",
   "cmd": 1002,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "",

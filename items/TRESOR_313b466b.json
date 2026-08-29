@@ -3,6 +3,7 @@
   "displayname": "Tresor",
   "material": "VAULT",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

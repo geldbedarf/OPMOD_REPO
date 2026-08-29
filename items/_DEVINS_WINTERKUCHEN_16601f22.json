@@ -3,6 +3,7 @@
   "displayname": "☺ ✻ Devins Winterkuchen ✻ ☺",
   "material": "CAKE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Signiert von leDevin am 20.10.2020"

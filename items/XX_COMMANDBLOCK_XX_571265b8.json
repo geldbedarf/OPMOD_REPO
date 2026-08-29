@@ -3,6 +3,7 @@
   "displayname": "xx Commandblock xx",
   "material": "REPEATING_COMMAND_BLOCK",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

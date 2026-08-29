@@ -3,6 +3,7 @@
   "displayname": "OPSUCHT Checkliste",
   "material": "GLOBE_BANNER_PATTERN",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

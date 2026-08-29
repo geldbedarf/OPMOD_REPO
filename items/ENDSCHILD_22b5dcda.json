@@ -3,6 +3,7 @@
   "displayname": "Endschild",
   "material": "SHIELD",
   "cmd": 10123,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

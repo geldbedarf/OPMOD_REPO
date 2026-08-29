@@ -3,6 +3,7 @@
   "displayname": "Handelslenker",
   "material": "WARPED_FUNGUS_ON_A_STICK",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Schmiedevorlage Paket",
   "material": "SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

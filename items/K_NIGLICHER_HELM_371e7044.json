@@ -3,6 +3,7 @@
   "displayname": "Königlicher Helm",
   "material": "GOLDEN_HELMET",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Haltbarkeit 30",

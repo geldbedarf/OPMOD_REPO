@@ -3,6 +3,7 @@
   "displayname": "Drachenritterbeinschutz",
   "material": "IRON_LEGGINGS",
   "cmd": 5524,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

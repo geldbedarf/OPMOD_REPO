@@ -3,6 +3,7 @@
   "displayname": "Fußballschuhe",
   "material": "LEATHER_BOOTS",
   "cmd": 10124,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

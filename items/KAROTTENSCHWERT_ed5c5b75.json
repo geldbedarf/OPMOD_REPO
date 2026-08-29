@@ -3,6 +3,7 @@
   "displayname": "Karottenschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10151,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

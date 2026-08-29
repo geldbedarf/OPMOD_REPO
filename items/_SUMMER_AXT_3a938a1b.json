@@ -3,6 +3,7 @@
   "displayname": "☼ Summer Axt ☼",
   "material": "DIAMOND_AXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

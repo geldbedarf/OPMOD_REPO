@@ -3,6 +3,7 @@
   "displayname": "Creeper Paket",
   "material": "LIME_SHULKER_BOX",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Spawner x1",

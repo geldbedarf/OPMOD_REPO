@@ -3,6 +3,7 @@
   "displayname": "x Primehacke v3 x",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10603,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

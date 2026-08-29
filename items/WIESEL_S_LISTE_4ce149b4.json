@@ -3,6 +3,7 @@
   "displayname": "Wiesel´s Liste",
   "material": "PAPER",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "Signiert von DasWiesel83 am 05.06.2021",

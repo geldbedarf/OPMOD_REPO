@@ -3,6 +3,7 @@
   "displayname": "Froschlicht Bogen",
   "material": "BOW",
   "cmd": 10130,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

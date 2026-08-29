@@ -3,6 +3,7 @@
   "displayname": "Phase II Beinschutz",
   "material": "LEATHER_LEGGINGS",
   "cmd": 10120,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Klonrüstung der repu-",

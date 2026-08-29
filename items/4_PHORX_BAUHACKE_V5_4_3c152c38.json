@@ -3,6 +3,7 @@
   "displayname": "4 Phorx Bauhacke v5 4",
   "material": "DIAMOND_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Hüte diese Spitzhacke wie dein Kind!",

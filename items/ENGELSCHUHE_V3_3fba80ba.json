@@ -3,6 +3,7 @@
   "displayname": "Engelschuhe v3",
   "material": "LEATHER_BOOTS",
   "cmd": 10301,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Flügel I",

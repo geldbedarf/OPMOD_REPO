@@ -3,6 +3,7 @@
   "displayname": "Winterspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10123,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

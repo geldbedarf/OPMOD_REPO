@@ -3,6 +3,7 @@
   "displayname": "Kern von J.A.R.V.I.S.",
   "material": "HEART_OF_THE_SEA",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

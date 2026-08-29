@@ -3,6 +3,7 @@
   "displayname": "Shard Spawner",
   "material": "SPAWNER",
   "cmd": 0,
+  "category": "SPAWNER",
   "damage": 0,
   "lore": [
     "",

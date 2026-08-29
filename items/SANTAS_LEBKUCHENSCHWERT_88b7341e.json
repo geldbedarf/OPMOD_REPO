@@ -3,6 +3,7 @@
   "displayname": "Santas Lebkuchenschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10145,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

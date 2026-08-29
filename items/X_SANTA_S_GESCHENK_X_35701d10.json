@@ -3,6 +3,7 @@
   "displayname": "x Santa\u0027s Geschenk x",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 2005,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

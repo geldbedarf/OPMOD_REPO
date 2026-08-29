@@ -3,6 +3,7 @@
   "displayname": "Höllenaxt",
   "material": "NETHERITE_AXE",
   "cmd": 6002,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

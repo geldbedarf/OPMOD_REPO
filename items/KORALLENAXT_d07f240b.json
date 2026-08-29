@@ -3,6 +3,7 @@
   "displayname": "Korallenaxt",
   "material": "NETHERITE_AXE",
   "cmd": 10142,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

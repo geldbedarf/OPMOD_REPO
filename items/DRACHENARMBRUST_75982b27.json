@@ -3,6 +3,7 @@
   "displayname": "Drachenarmbrust",
   "material": "CROSSBOW",
   "cmd": 10000,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

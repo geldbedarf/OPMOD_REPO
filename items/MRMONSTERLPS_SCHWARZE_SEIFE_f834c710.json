@@ -3,6 +3,7 @@
   "displayname": "MrMonsterLPs schwarze Seife",
   "material": "COAL",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Signiert von MrMonsterLP am 05.06.2021",

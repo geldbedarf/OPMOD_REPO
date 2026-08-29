@@ -3,6 +3,7 @@
   "displayname": "Custom Adminrand",
   "material": "OAK_SIGN",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Du darfst dir einen",

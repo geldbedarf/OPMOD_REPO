@@ -3,6 +3,7 @@
   "displayname": "Redstonebogen",
   "material": "BOW",
   "cmd": 10115,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

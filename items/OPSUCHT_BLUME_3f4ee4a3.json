@@ -3,6 +3,7 @@
   "displayname": "OPSUCHT Blume",
   "material": "LILY_OF_THE_VALLEY",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Schokoladenei",
   "material": "PAPER",
   "cmd": 6317,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

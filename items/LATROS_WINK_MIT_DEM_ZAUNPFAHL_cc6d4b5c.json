@@ -3,6 +3,7 @@
   "displayname": "Latros Wink mit dem Zaunpfahl",
   "material": "SPRUCE_FENCE",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von Latro7002 am 05.06.2021",

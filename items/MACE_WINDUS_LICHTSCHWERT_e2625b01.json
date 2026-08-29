@@ -3,6 +3,7 @@
   "displayname": "Mace Windus Lichtschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10404,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

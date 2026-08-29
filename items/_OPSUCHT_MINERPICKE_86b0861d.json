@@ -3,6 +3,7 @@
   "displayname": "🔥 OPSUCHT Minerpicke 🔥",
   "material": "DIAMOND_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

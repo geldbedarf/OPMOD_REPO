@@ -3,6 +3,7 @@
   "displayname": "x Marcel´s Dev Bogen x",
   "material": "BOW",
   "cmd": 10105,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

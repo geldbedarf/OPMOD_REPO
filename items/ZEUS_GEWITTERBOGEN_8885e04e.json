@@ -3,6 +3,7 @@
   "displayname": "Zeus Gewitterbogen",
   "material": "BOW",
   "cmd": 10118,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

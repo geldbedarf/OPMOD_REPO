@@ -3,6 +3,7 @@
   "displayname": "Stab des Nekromanten",
   "material": "NETHERITE_SWORD",
   "cmd": 10000,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

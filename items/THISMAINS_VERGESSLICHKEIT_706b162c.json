@@ -3,6 +3,7 @@
   "displayname": "ThisMAINs Vergesslichkeit",
   "material": "PRISMARINE_CRYSTALS",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "Signiert von ThisMAIN am 05.06.2021",

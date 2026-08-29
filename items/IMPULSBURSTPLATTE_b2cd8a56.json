@@ -3,6 +3,7 @@
   "displayname": "Impulsburstplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 5528,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

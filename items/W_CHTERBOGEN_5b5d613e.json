@@ -3,6 +3,7 @@
   "displayname": "Wächterbogen",
   "material": "BOW",
   "cmd": 5537,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

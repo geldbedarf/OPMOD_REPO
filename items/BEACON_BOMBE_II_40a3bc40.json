@@ -3,6 +3,7 @@
   "displayname": "Beacon Bombe (II)",
   "material": "SPLASH_POTION",
   "cmd": 0,
+  "category": "TRAENKE",
   "damage": 0,
   "lore": [
     "",

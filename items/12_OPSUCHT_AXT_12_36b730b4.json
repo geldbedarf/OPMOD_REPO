@@ -3,6 +3,7 @@
   "displayname": "12 OPSUCHT Axt 12",
   "material": "DIAMOND_AXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

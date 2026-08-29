@@ -3,6 +3,7 @@
   "displayname": "FRÜHLINGS HOSE",
   "material": "LEATHER_LEGGINGS",
   "cmd": 10101,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Jasons Machete",
   "material": "NETHERITE_SWORD",
   "cmd": 10139,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

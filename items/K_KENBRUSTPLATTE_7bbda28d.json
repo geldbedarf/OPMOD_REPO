@@ -3,6 +3,7 @@
   "displayname": "Kükenbrustplatte",
   "material": "IRON_CHESTPLATE",
   "cmd": 5526,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

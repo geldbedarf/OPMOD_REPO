@@ -3,6 +3,7 @@
   "displayname": "Phils Kristallkrone",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 824,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "DURA Brust",
   "material": "DIAMOND_CHESTPLATE",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert von DURCHRASTEN am 05.06.2021",

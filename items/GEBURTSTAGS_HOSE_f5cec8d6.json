@@ -3,6 +3,7 @@
   "displayname": "Geburtstags Hose",
   "material": "DIAMOND_LEGGINGS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Signiert von leDevin am 22.10.2020",

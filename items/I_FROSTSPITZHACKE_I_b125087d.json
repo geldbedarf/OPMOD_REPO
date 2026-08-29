@@ -3,6 +3,7 @@
   "displayname": "i Frostspitzhacke i",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10003,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

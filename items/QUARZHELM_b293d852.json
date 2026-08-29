@@ -3,6 +3,7 @@
   "displayname": "Quarzhelm",
   "material": "IRON_HELMET",
   "cmd": 10222,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "Quarzkollektion (6/13)",

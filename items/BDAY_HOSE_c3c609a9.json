@@ -3,6 +3,7 @@
   "displayname": "BDAY Hose",
   "material": "IRON_LEGGINGS",
   "cmd": 10133,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

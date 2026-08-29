@@ -3,6 +3,7 @@
   "displayname": "Flügel vom Kobold",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10111,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

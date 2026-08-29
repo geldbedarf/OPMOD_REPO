@@ -3,6 +3,7 @@
   "displayname": "Pass Kristall",
   "material": "END_CRYSTAL",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

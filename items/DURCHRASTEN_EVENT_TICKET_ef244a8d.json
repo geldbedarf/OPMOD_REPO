@@ -3,6 +3,7 @@
   "displayname": "Durchrasten Event Ticket",
   "material": "PAPER",
   "cmd": 0,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "Mit diesem Ticket",

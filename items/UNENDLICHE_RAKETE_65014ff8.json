@@ -3,6 +3,7 @@
   "displayname": "Unendliche Rakete",
   "material": "FIREWORK_ROCKET",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

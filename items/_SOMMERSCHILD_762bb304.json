@@ -3,6 +3,7 @@
   "displayname": "✳ Sommerschild ✳",
   "material": "SHIELD",
   "cmd": 10114,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

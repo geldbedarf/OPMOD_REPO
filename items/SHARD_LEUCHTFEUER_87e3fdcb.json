@@ -3,6 +3,7 @@
   "displayname": "Shard Leuchtfeuer",
   "material": "BEACON",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [],
 "shard_price": 7500,

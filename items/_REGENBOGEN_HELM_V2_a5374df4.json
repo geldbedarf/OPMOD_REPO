@@ -3,6 +3,7 @@
   "displayname": "✯ Regenbogen Helm v2 ✯",
   "material": "LEATHER_HELMET",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

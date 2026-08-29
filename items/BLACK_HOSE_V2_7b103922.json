@@ -3,6 +3,7 @@
   "displayname": "Black Hose V2",
   "material": "LEATHER_LEGGINGS",
   "cmd": 10110,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

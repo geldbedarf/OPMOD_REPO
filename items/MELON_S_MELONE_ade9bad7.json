@@ -3,6 +3,7 @@
   "displayname": "Melon´s Melone",
   "material": "MELON_SLICE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Signiert von Melon_mag_pizza am 25.02.2022",

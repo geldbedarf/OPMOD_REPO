@@ -3,6 +3,7 @@
   "displayname": "Elfenschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 5511,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

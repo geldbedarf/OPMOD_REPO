@@ -3,6 +3,7 @@
   "displayname": "Dolores\u0027 Katze",
   "material": "CAT_SPAWN_EGG",
   "cmd": 0,
+  "category": "SPAWNER",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Odins Licht der Götter",
   "material": "SEA_LANTERN",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "Signiert von Odins_Rache am 05.06.2021",

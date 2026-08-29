@@ -3,6 +3,7 @@
   "displayname": "Hüpfburg",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 6222,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

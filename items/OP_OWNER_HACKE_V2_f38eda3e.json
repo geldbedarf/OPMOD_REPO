@@ -3,6 +3,7 @@
   "displayname": "OP OWNER HACKE v2",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10301,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

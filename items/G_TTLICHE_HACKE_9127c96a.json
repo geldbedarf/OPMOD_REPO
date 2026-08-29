@@ -3,6 +3,7 @@
   "displayname": "Göttliche Hacke",
   "material": "NETHERITE_HOE",
   "cmd": 10119,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Pflanzer",

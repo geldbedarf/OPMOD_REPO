@@ -3,6 +3,7 @@
   "displayname": "Piratenmantel",
   "material": "IRON_CHESTPLATE",
   "cmd": 10001,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

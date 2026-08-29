@@ -3,6 +3,7 @@
   "displayname": "OPSucht.NET TECHNIK BLOCK",
   "material": "CHAIN_COMMAND_BLOCK",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

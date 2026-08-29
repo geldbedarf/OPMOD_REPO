@@ -3,6 +3,7 @@
   "displayname": "SANTAS Schneeschuhe (+5 Herzen)",
   "material": "GOLDEN_BOOTS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

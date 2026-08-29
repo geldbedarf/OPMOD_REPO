@@ -3,6 +3,7 @@
   "displayname": "Galaxien Diamant v2",
   "material": "DIAMOND",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

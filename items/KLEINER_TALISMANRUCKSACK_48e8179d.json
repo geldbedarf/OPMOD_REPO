@@ -3,6 +3,7 @@
   "displayname": "Kleiner Talismanrucksack",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 817,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

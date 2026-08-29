@@ -3,6 +3,7 @@
   "displayname": "Haus der Tapferen Banner",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 10599,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

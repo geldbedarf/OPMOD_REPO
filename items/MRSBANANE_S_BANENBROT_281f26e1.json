@@ -3,6 +3,7 @@
   "displayname": "MrsBanane´s Banenbrot",
   "material": "BREAD",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Signiert von MrsBanane_ am 25.02.2022",

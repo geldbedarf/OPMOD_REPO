@@ -3,6 +3,7 @@
   "displayname": "Beinschutz der Geschwindigkeit",
   "material": "DIAMOND_LEGGINGS",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

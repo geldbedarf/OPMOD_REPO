@@ -3,6 +3,7 @@
   "displayname": "Narrenjacke",
   "material": "IRON_CHESTPLATE",
   "cmd": 5515,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

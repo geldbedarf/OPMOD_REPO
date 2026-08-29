@@ -3,6 +3,7 @@
   "displayname": "Drachenpicke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10117,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

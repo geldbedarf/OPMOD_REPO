@@ -3,6 +3,7 @@
   "displayname": "Sonnenhacke",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 10028,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

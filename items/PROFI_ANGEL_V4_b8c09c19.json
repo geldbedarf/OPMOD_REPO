@@ -3,6 +3,7 @@
   "displayname": "Profi Angel v4",
   "material": "FISHING_ROD",
   "cmd": 10401,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

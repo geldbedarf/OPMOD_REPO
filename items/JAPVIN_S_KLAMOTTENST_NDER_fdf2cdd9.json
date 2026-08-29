@@ -3,6 +3,7 @@
   "displayname": "Japvin\u0027s Klamottenständer",
   "material": "ARMOR_STAND",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "Signiert von Japvin am 06.10.2020",

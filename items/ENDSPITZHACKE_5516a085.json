@@ -3,6 +3,7 @@
   "displayname": "Endspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10170,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Pechbogen",
   "material": "DIAMOND_HORSE_ARMOR",
   "cmd": 12001,
+  "category": "SKINS",
   "damage": 0,
   "lore": [
     "",

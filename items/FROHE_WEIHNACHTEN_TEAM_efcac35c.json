@@ -3,6 +3,7 @@
   "displayname": "Frohe Weihnachten Team",
   "material": "DIAMOND_PICKAXE",
   "cmd": 0,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Signiert von kibri09 24.12.2020",

@@ -3,6 +3,7 @@
   "displayname": "Kupferschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10124,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

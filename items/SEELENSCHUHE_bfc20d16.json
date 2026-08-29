@@ -3,6 +3,7 @@
   "displayname": "Seelenschuhe",
   "material": "IRON_BOOTS",
   "cmd": 5507,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "SkyGuys XP Potion",
   "material": "EXPERIENCE_BOTTLE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "SkyGuys Lieblings Trank",

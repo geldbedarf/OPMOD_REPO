@@ -3,6 +3,7 @@
   "displayname": "Mario´s Feuerblume",
   "material": "POPPY",
   "cmd": 0,
+  "category": "BLOECKE",
   "damage": 0,
   "lore": [
     "",

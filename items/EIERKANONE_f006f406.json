@@ -3,6 +3,7 @@
   "displayname": "Eierkanone",
   "material": "NETHERITE_SWORD",
   "cmd": 10009,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

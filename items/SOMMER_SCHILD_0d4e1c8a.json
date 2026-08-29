@@ -1,10 +1,20 @@
 {
   "internalname": "SOMMER_SCHILD_0d4e1c8a",
   "displayname": "SOMMER Schild",
-  "material": "00000000-0000-0063-0000-0000099EB96C",
+  "material": "SHIELD",
   "cmd": 0,
+  "category": "RUESTUNG",
   "damage": 0,
-  "lore": [],
+  "lore": [
+    "",
+    "・Signiert von Phorx am 11.06.2022",
+    "・Signiert von leDevin am 11.06.2022",
+    "・・・・・・・・・・・・・・・・・・・・",
+    "➢ Effekt: +5 Herzen (In Off-Hand)",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Unbezahlbar"
+  ],
   "nbttag": "{components:{\"minecraft:attribute_modifiers\":[{amount:10.0d,id:\"minecraft:00000000-0000-0063-0000-0000099eb96c\",operation:\"add_value\",slot:\"offhand\",type:\"minecraft:max_health\"}],\"minecraft:custom_name\":{extra:[{bold:1b,color:\"yellow\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"SOMMER \",underlined:0b},{bold:1b,color:\"aqua\",italic:0b,text:\"Schild\"}],text:\"\"},\"minecraft:lore\":[{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"・\",underlined:0b},{color:\"gray\",italic:0b,text:\"Signiert von \"},{color:\"dark_red\",italic:0b,text:\"Phorx \"},{color:\"gray\",italic:0b,text:\"am \"},{color:\"yellow\",italic:0b,text:\"11\"},{color:\"gray\",italic:0b,text:\".\"},{color:\"yellow\",italic:0b,text:\"06\"},{color:\"gray\",italic:0b,text:\".\"},{color:\"yellow\",italic:0b,text:\"2022\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"・\",underlined:0b},{color:\"gray\",italic:0b,text:\"Signiert von \"},{color:\"dark_red\",italic:0b,text:\"leDevin \"},{color:\"gray\",italic:0b,text:\"am \"},{color:\"yellow\",italic:0b,text:\"11\"},{color:\"gray\",italic:0b,text:\".\"},{color:\"yellow\",italic:0b,text:\"06\"},{color:\"gray\",italic:0b,text:\".\"},{color:\"yellow\",italic:0b,text:\"2022\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"・・・・・・・・・・・・・・・・・・・・\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➢ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"+5 Herzen \"},{color:\"gray\",italic:1b,text:\"(In Off-Hand)\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Unbezahlbar\"}],text:\"\"}],\"minecraft:tooltip_display\":{hidden_components:[\"minecraft:attribute_modifiers\"]}},count:1,id:\"minecraft:shield\"}",
   "capturedAt": "2026-08-15T12:10:34.634Z"
 }

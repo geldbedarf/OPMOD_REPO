@@ -3,6 +3,7 @@
   "displayname": "Emmys Adminhelm V2",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 5517,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

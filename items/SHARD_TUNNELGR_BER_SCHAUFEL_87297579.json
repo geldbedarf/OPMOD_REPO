@@ -3,6 +3,7 @@
   "displayname": "Shard Tunnelgräber Schaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10110,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "Knall I",

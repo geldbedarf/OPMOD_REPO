@@ -3,6 +3,7 @@
   "displayname": "Schatz des Osterhasen",
   "material": "DEEPSLATE_EMERALD_ORE",
   "cmd": 0,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

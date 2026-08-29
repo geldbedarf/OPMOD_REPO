@@ -3,6 +3,7 @@
   "displayname": "kristinnaaas Russisch Brot",
   "material": "BREAD",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Signiert von kristinnaaa am 05.06.2021",

@@ -3,6 +3,7 @@
   "displayname": "Unendliche Kohle",
   "material": "COAL",
   "cmd": 10000,
+  "category": "RESSOURCEN",
   "damage": 0,
   "lore": [
     "",

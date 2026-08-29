@@ -3,6 +3,7 @@
   "displayname": "•◘○ APFELKUCHEN ○◘•",
   "material": "CAKE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [],
   "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"•◘○ \",underlined:0b},{bold:1b,color:\"green\",italic:0b,text:\"APFELKUCHEN \"},{bold:0b,color:\"dark_gray\",italic:0b,text:\"○◘•\"}],text:\"\"},\"minecraft:damage\":0,\"minecraft:enchantments\":{\"minecraft:efficiency\":5}},count:1,id:\"minecraft:cake\"}",

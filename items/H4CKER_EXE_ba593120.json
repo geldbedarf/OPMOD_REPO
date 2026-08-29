@@ -3,6 +3,7 @@
   "displayname": "H4CKER.exe",
   "material": "LEATHER_BOOTS",
   "cmd": 10201,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "ds101ds010110sdh",

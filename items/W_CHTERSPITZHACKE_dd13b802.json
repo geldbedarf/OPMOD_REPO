@@ -3,6 +3,7 @@
   "displayname": "Wächterspitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 5537,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

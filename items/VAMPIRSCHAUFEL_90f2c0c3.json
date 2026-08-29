@@ -3,6 +3,7 @@
   "displayname": "Vampirschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 5504,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

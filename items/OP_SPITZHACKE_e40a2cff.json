@@ -3,6 +3,7 @@
   "displayname": "OP Spitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10101,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

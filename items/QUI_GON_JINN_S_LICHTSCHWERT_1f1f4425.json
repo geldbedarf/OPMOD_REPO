@@ -3,6 +3,7 @@
   "displayname": "Qui-Gon Jinn\u0027s Lichtschwert",
   "material": "NETHERITE_SWORD",
   "cmd": 10124,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

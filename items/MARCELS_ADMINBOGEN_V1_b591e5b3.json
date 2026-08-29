@@ -3,6 +3,7 @@
   "displayname": "Marcels Adminbogen V1",
   "material": "BOW",
   "cmd": 900,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Tresor",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3012,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

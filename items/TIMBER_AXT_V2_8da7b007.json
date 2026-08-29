@@ -3,6 +3,7 @@
   "displayname": "Timber Axt v2",
   "material": "NETHERITE_AXE",
   "cmd": 10101,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

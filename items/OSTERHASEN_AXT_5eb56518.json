@@ -3,6 +3,7 @@
   "displayname": "Osterhasen Axt",
   "material": "NETHERITE_AXE",
   "cmd": 10125,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

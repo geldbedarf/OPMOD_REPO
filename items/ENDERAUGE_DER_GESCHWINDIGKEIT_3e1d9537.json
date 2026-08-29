@@ -3,6 +3,7 @@
   "displayname": "Enderauge der Geschwindigkeit",
   "material": "ENDER_EYE",
   "cmd": 0,
+  "category": "SONSTIGES",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "OPSUCHT 1000€ MegaCash",
   "material": "PAPER",
   "cmd": 20205,
+  "category": "BUECHER",
   "damage": 0,
   "lore": [
     "",

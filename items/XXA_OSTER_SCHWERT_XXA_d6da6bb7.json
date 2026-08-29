@@ -3,6 +3,7 @@
   "displayname": "xxa OSTER SCHWERT xxa",
   "material": "NETHERITE_SWORD",
   "cmd": 10201,
+  "category": "WAFFEN",
   "damage": 0,
   "lore": [
     "",

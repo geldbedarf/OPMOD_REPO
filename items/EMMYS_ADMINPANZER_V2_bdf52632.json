@@ -3,6 +3,7 @@
   "displayname": "Emmys Adminpanzer V2",
   "material": "IRON_CHESTPLATE",
   "cmd": 5517,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

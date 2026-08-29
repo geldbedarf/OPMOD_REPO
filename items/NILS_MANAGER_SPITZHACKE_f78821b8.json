@@ -3,6 +3,7 @@
   "displayname": "Nils Manager Spitzhacke",
   "material": "NETHERITE_PICKAXE",
   "cmd": 10116,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

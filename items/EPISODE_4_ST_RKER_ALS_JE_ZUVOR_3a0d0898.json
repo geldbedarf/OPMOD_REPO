@@ -3,6 +3,7 @@
   "displayname": "Episode 4: Stärker als je zuvor",
   "material": "PLAYER_HEAD",
   "cmd": 0,
+  "category": "DEKO",
   "damage": 0,
   "lore": [
     "",

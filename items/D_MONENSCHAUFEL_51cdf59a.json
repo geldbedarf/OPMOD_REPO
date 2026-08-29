@@ -3,6 +3,7 @@
   "displayname": "Dämonenschaufel",
   "material": "NETHERITE_SHOVEL",
   "cmd": 10129,
+  "category": "WERKZEUGE",
   "damage": 0,
   "lore": [
     "",

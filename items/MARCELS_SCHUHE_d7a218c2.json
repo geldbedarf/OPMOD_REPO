@@ -3,6 +3,7 @@
   "displayname": "Marcels Schuhe",
   "material": "LEATHER_BOOTS",
   "cmd": 10118,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

@@ -3,6 +3,7 @@
   "displayname": "Armer Villager",
   "material": "GOLDEN_HORSE_ARMOR",
   "cmd": 3064,
+  "category": "SAMMELKARTEN",
   "damage": 0,
   "lore": [
     "",

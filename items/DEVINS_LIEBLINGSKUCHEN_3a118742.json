@@ -3,6 +3,7 @@
   "displayname": "Devins Lieblingskuchen",
   "material": "CAKE",
   "cmd": 0,
+  "category": "NAHRUNG",
   "damage": 0,
   "lore": [
     "Signiert von leDevin am 23.11.2021"

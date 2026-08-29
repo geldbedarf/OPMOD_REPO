@@ -3,6 +3,7 @@
   "displayname": "Redstonehelm",
   "material": "IRON_HELMET",
   "cmd": 10210,
+  "category": "RUESTUNG",
   "damage": 0,
   "lore": [
     "",

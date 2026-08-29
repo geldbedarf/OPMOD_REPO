@@ -3,8 +3,14 @@
   "displayname": "Erschaffe Pferd",
   "material": "HORSE_SPAWN_EGG",
   "cmd": 0,
+  "category": "SPAWNER",
   "damage": 0,
-  "lore": [],
+  "lore": [
+    "",
+    "» LEGENDÄRE Kiste «",
+    "",
+    "» Episch «"
+  ],
   "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Erschaffe Pferd \",underlined:0b}],text:\"\"},\"minecraft:lore\":[{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"» \",underlined:0b},{bold:1b,color:\"aqua\",italic:0b,text:\"LEGENDÄRE Kiste \"},{bold:0b,color:\"gray\",italic:0b,text:\"«\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"» \",underlined:0b},{color:\"dark_purple\",italic:0b,text:\"Episch \"},{color:\"gray\",italic:0b,text:\"«\"}],text:\"\"}]},count:1,id:\"minecraft:horse_spawn_egg\"}",
   "capturedAt": "2026-08-15T12:15:28.565Z"
 }
